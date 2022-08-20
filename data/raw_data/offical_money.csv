@@ -1,502 +1,445 @@
-RANK THIS WEEK,RANK LAST WEEK,PLAYER NAME,EVENTS,MONEY,YTD VICTORIES,YEAR
-1,1,Jon Rahm,22.0,"$7,705,933",1.0,2021.0
-2,2,Patrick Cantlay,24.0,"$7,638,805",4.0,2021.0
-3,3,Bryson DeChambeau,22.0,"$7,426,415",2.0,2021.0
-4,4,Collin Morikawa,23.0,"$7,059,908",2.0,2021.0
-5,5,Justin Thomas,23.0,"$6,537,153",1.0,2021.0
-6,6,Jordan Spieth,25.0,"$6,470,482",1.0,2021.0
-7,7,Louis Oosthuizen,21.0,"$6,306,679",,2021.0
-8,8,Harris English,26.0,"$6,200,481",2.0,2021.0
-9,9,Cameron Smith,24.0,"$5,851,867",1.0,2021.0
-10,10,Abraham Ancer,27.0,"$5,816,565",1.0,2021.0
-11,11,Tony Finau,27.0,"$5,740,097",1.0,2021.0
-12,12,Xander Schauffele,22.0,"$5,240,653",,2021.0
-13,13,Brooks Koepka,20.0,"$5,204,136",1.0,2021.0
-14,14,Sam Burns,26.0,"$5,160,030",1.0,2021.0
-15,15,Jason Kokrak,27.0,"$5,118,629",2.0,2021.0
-16,16,Viktor Hovland,24.0,"$5,048,772",1.0,2021.0
-17,17,Dustin Johnson,21.0,"$5,001,136",1.0,2021.0
-18,18,Hideki Matsuyama,27.0,"$4,963,594",1.0,2021.0
-19,19,Scottie Scheffler,29.0,"$4,505,589",,2021.0
-20,20,Rory McIlroy,21.0,"$4,391,809",1.0,2021.0
-21,21,Daniel Berger,23.0,"$4,258,579",1.0,2021.0
-22,22,Sungjae Im,35.0,"$4,157,182",,2021.0
-23,23,Billy Horschel,25.0,"$4,030,906",1.0,2021.0
-24,24,Patrick Reed,23.0,"$4,019,044",1.0,2021.0
-25,25,Corey Conners,29.0,"$4,007,567",,2021.0
-26,26,Joaquin Niemann,27.0,"$3,936,912",,2021.0
-27,27,Kevin Na,26.0,"$3,625,982",1.0,2021.0
-28,28,Stewart Cink,26.0,"$3,596,319",2.0,2021.0
-29,29,Max Homa,28.0,"$3,448,578",1.0,2021.0
-30,30,Lee Westwood,19.0,"$3,435,368",,2021.0
-31,31,Si Woo Kim,31.0,"$3,245,928",1.0,2021.0
-32,32,Brian Harman,28.0,"$3,221,821",,2021.0
-33,33,Paul Casey,20.0,"$3,129,666",,2021.0
-34,34,Marc Leishman,24.0,"$3,107,047",1.0,2021.0
-35,35,K.H. Lee,33.0,"$3,085,133",1.0,2021.0
-36,36,Charley Hoffman,29.0,"$3,049,763",,2021.0
-37,37,Sergio Garcia,24.0,"$2,998,555",1.0,2021.0
-38,38,Kevin Kisner,26.0,"$2,952,177",1.0,2021.0
-39,39,Webb Simpson,21.0,"$2,783,012",,2021.0
-40,40,Cam Davis,26.0,"$2,746,956",1.0,2021.0
-41,41,Phil Mickelson,23.0,"$2,707,199",1.0,2021.0
-42,42,Carlos Ortiz,28.0,"$2,682,104",1.0,2021.0
-43,43,Shane Lowry,21.0,"$2,636,597",,2021.0
-44,44,Lucas Glover,30.0,"$2,577,704",1.0,2021.0
-45,45,Keegan Bradley,27.0,"$2,572,089",,2021.0
-46,46,Russell Henley,25.0,"$2,545,330",,2021.0
-47,47,Matthew Wolff,20.0,"$2,507,324",,2021.0
-48,48,Matt Jones,30.0,"$2,496,677",1.0,2021.0
-49,49,Cameron Tringale,27.0,"$2,428,609",,2021.0
-50,50,Talor Gooch,28.0,"$2,291,437",,2021.0
-51,51,Ryan Palmer,23.0,"$2,276,042",,2021.0
-52,52,Charl Schwartzel,27.0,"$2,264,460",,2021.0
-53,53,Matt Fitzpatrick,20.0,"$2,252,351",,2021.0
-54,54,Branden Grace,27.0,"$2,222,244",1.0,2021.0
-55,55,Erik van Rooyen,27.0,"$2,211,281",1.0,2021.0
-56,56,Aaron Wise,24.0,"$2,207,563",,2021.0
-57,57,Chris Kirk,26.0,"$2,176,116",,2021.0
-58,58,Kevin Streelman,30.0,"$2,162,402",,2021.0
-59,59,Cameron Champ,26.0,"$2,154,103",1.0,2021.0
-60,60,Patton Kizzire,29.0,"$2,102,294",,2021.0
-61,61,Emiliano Grillo,30.0,"$2,100,336",,2021.0
-62,62,Sebastián Muñoz,32.0,"$2,097,446",,2021.0
-63,63,Alex Noren,25.0,"$2,085,051",,2021.0
-64,64,Jhonattan Vegas,26.0,"$2,069,765",,2021.0
-65,65,Maverick McNealy,26.0,"$2,055,002",,2021.0
-66,66,Harold Varner III,29.0,"$2,013,461",,2021.0
-67,67,Tyrrell Hatton,19.0,"$2,010,279",,2021.0
-68,68,Bubba Watson,22.0,"$1,873,381",,2021.0
-69,69,Mackenzie Hughes,28.0,"$1,845,824",,2021.0
-70,70,Harry Higgs,28.0,"$1,829,267",,2021.0
-71,71,Troy Merritt,33.0,"$1,827,790",,2021.0
-72,72,Martin Laird,27.0,"$1,812,120",1.0,2021.0
-73,73,Robert Streb,28.0,"$1,811,604",1.0,2021.0
-74,74,Hudson Swafford,29.0,"$1,759,907",1.0,2021.0
-75,75,Tom Hoge,34.0,"$1,690,223",,2021.0
-76,76,Keith Mitchell,28.0,"$1,665,249",,2021.0
-77,77,J.T. Poston,29.0,"$1,663,521",,2021.0
-78,78,Ian Poulter,21.0,"$1,641,459",,2021.0
-79,79,Lanto Griffin,29.0,"$1,612,446",,2021.0
-80,80,Brandon Hagy,28.0,"$1,593,365",,2021.0
-81,81,Andrew Putnam,32.0,"$1,572,704",,2021.0
-82,82,Dylan Frittelli,28.0,"$1,564,495",,2021.0
-83,83,Seamus Power,17.0,"$1,547,290",1.0,2021.0
-84,84,Adam Scott,19.0,"$1,517,533",,2021.0
-85,85,Adam Long,30.0,"$1,496,681",,2021.0
-86,86,Joel Dahmen,27.0,"$1,452,347",1.0,2021.0
-87,87,Peter Malnati,30.0,"$1,429,713",,2021.0
-88,88,Garrick Higgo,8.0,"$1,378,456",1.0,2021.0
-89,89,Henrik Norlander,29.0,"$1,377,085",,2021.0
-90,90,Matt Wallace,18.0,"$1,369,595",,2021.0
-91,91,Doc Redman,27.0,"$1,361,633",,2021.0
-92,92,Brendan Steele,24.0,"$1,358,526",,2021.0
-93,93,Brendon Todd,28.0,"$1,349,804",,2021.0
-94,94,Matt Kuchar,25.0,"$1,348,917",,2021.0
-95,95,Kramer Hickok,24.0,"$1,348,745",,2021.0
-96,96,Brandt Snedeker,28.0,"$1,347,790",,2021.0
-97,97,Brian Stuard,35.0,"$1,343,197",,2021.0
-98,98,Adam Hadwin,29.0,"$1,308,758",,2021.0
-99,99,Justin Rose,17.0,"$1,304,180",,2021.0
-100,100,Gary Woodland,25.0,"$1,294,062",,2021.0
-101,101,Jason Day,22.0,"$1,291,234",,2021.0
-102,102,Hank Lebioda,24.0,"$1,286,430",,2021.0
-103,103,Doug Ghim,27.0,"$1,283,807",,2021.0
-104,104,Luke List,31.0,"$1,243,787",,2021.0
-105,105,Zach Johnson,24.0,"$1,241,402",,2021.0
-106,106,C.T. Pan,27.0,"$1,227,777",,2021.0
-107,107,Denny McCarthy,30.0,"$1,212,977",,2021.0
-108,108,Pat Perez,32.0,"$1,200,834",,2021.0
-109,109,Wyndham Clark,27.0,"$1,198,800",,2021.0
-110,110,James Hahn,25.0,"$1,197,328",,2021.0
-111,111,Richy Werenski,31.0,"$1,180,394",,2021.0
-112,112,Tommy Fleetwood,18.0,"$1,149,631",,2021.0
-113,113,Sepp Straka,31.0,"$1,136,615",,2021.0
-114,114,Russell Knox,32.0,"$1,130,467",,2021.0
-115,115,Chez Reavie,30.0,"$1,126,279",,2021.0
-116,116,Matthew NeSmith,29.0,"$1,111,102",,2021.0
-117,117,Roger Sloan,27.0,"$1,107,623",,2021.0
-118,118,Adam Schenk,33.0,"$1,101,722",,2021.0
-119,119,Rickie Fowler,24.0,"$1,089,904",,2021.0
-120,120,Sam Ryder,32.0,"$1,080,154",,2021.0
-121,121,Scott Piercy,26.0,"$1,071,702",,2021.0
-122,122,Kyle Stanley,29.0,"$1,061,178",,2021.0
-123,123,Scott Stallings,27.0,"$1,030,868",,2021.0
-124,124,Tyler McCumber,25.0,"$1,025,909",,2021.0
-125,125,Francesco Molinari,15.0,"$996,977",,2021.0
-126,126,Rory Sabbatini,25.0,"$968,716",,2021.0
-127,127,Patrick Rodgers,34.0,"$968,100",,2021.0
-128,128,Ryan Armour,28.0,"$962,354",,2021.0
-129,129,Anirban Lahiri,22.0,"$952,131",,2021.0
-130,130,Charles Howell III,21.0,"$947,154",,2021.0
-131,131,Camilo Villegas,26.0,"$945,774",,2021.0
-132,132,Chesson Hadley,27.0,"$940,986",,2021.0
-133,133,Brice Garnett,31.0,"$926,914",,2021.0
-134,134,Bo Hoag,32.0,"$916,522",,2021.0
-135,135,Brian Gay,27.0,"$916,158",1.0,2021.0
-136,136,Michael Thompson,24.0,"$907,001",,2021.0
-137,137,Austin Cook,29.0,"$898,902",,2021.0
-138,138,Nate Lashley,25.0,"$879,981",,2021.0
-139,139,Nick Taylor,29.0,"$862,159",,2021.0
-140,140,Chase Seiffert,28.0,"$824,736",,2021.0
-141,141,Cameron Percy,27.0,"$784,607",,2021.0
-142,142,Ryan Moore,16.0,"$777,994",,2021.0
-143,143,Mark Hubbard,32.0,"$762,137",,2021.0
-144,144,Bo Van Pelt,28.0,"$752,234",,2021.0
-145,145,Joseph Bramlett,27.0,"$735,440",,2021.0
-146,146,Vince Whaley,27.0,"$692,292",,2021.0
-147,147,Satoshi Kodaira,27.0,"$671,889",,2021.0
-148,148,Jimmy Walker,25.0,"$661,287",,2021.0
-149,149,Beau Hossler,30.0,"$660,397",,2021.0
-150,150,Vaughn Taylor,30.0,"$648,742",,2021.0
-151,151,Padraig Harrington,16.0,"$640,513",,2021.0
-152,152,Steve Stricker,11.0,"$640,311",,2021.0
-153,153,Michael Gligic,29.0,"$620,442",,2021.0
-154,154,Danny Willett,16.0,"$618,364",,2021.0
-155,155,Andrew Landry,24.0,"$594,200",,2021.0
-156,156,John Huh,20.0,"$581,646",,2021.0
-157,157,Tom Lewis,28.0,"$581,245",,2021.0
-158,158,Rafael Campos,25.0,"$565,186",,2021.0
-159,159,Bronson Burgoon,26.0,"$558,656",,2021.0
-160,160,Kris Ventura,29.0,"$547,615",,2021.0
-161,161,Byeong Hun An,29.0,"$540,748",,2021.0
-162,162,Scott Brown,30.0,"$531,728",,2021.0
-163,163,Tyler Duncan,33.0,"$509,882",,2021.0
-164,164,Jason Dufner,29.0,"$505,269",,2021.0
-165,165,Will Gordon,31.0,"$488,887",,2021.0
-166,166,Rafa Cabrera Bello,26.0,"$486,337",,2021.0
-167,167,Robby Shelton,32.0,"$463,699",,2021.0
-168,168,Rob Oppenheim,27.0,"$448,364",,2021.0
-169,169,Sung Kang,31.0,"$428,931",,2021.0
-170,170,Sean O'Hair,21.0,"$427,268",,2021.0
-171,171,J.J. Spaun,26.0,"$419,752",,2021.0
-172,172,Ben Martin,18.0,"$411,673",,2021.0
-173,173,Jim Herman,22.0,"$407,995",,2021.0
-174,174,David Hearn,24.0,"$406,435",,2021.0
-175,175,Peter Uihlein,12.0,"$399,417",,2021.0
-176,176,Scott Harrington,30.0,"$370,388",,2021.0
-177,177,Mito Pereira,7.0,"$370,348",,2021.0
-178,178,Mark Anderson,21.0,"$360,642",,2021.0
-179,179,"Ted Potter, Jr.",25.0,"$355,877",,2021.0
-180,180,Danny Lee,24.0,"$347,862",,2021.0
-181,181,Xinjun Zhang,28.0,"$343,355",,2021.0
-182,182,Luke Donald,23.0,"$333,336",,2021.0
-183,183,Kevin Tway,24.0,"$323,098",,2021.0
-184,184,Wesley Bryan,11.0,"$320,426",,2021.0
-185,185,Kevin Chappell,12.0,"$282,510",,2021.0
-186,186,Fabián Gómez,24.0,"$258,734",,2021.0
-187,187,D.J. Trahan,24.0,"$255,177",,2021.0
-188,188,Grayson Murray,22.0,"$255,130",,2021.0
-189,189,Henrik Stenson,18.0,"$245,906",,2021.0
-190,190,Chris Baker,22.0,"$238,627",,2021.0
-191,191,Ryan Brehm,21.0,"$238,198",,2021.0
-192,192,Ben Taylor,19.0,"$232,604",,2021.0
-193,193,Josh Teater,17.0,"$224,952",,2021.0
-194,194,Nelson Ledesma,19.0,"$215,567",,2021.0
-195,195,Graeme McDowell,15.0,"$212,749",,2021.0
-196,196,Michael Gellerman,19.0,"$198,087",,2021.0
-197,197,Rhein Gibson,23.0,"$195,664",,2021.0
-198,198,Jim Furyk,7.0,"$184,897",,2021.0
-199,199,Sebastian Cappelen,23.0,"$179,289",,2021.0
-200,200,David Lingmerth,11.0,"$175,817",,2021.0
-201,201,Kiradech Aphibarnrat,17.0,"$166,496",,2021.0
-202,202,Bill Haas,20.0,"$161,963",,2021.0
-203,203,Aaron Baddeley,22.0,"$160,640",,2021.0
-204,204,Nick Watney,25.0,"$159,576",,2021.0
-205,205,Tim Wilkinson,16.0,"$157,744",,2021.0
-206,206,Wes Roach,14.0,"$156,364",,2021.0
-207,207,Kelly Kraft,17.0,"$138,616",,2021.0
-208,208,J.B. Holmes,19.0,"$136,546",,2021.0
-209,209,Jonathan Byrd,15.0,"$135,425",,2021.0
-210,210,Michael Kim,30.0,"$132,613",,2021.0
-211,211,K.J. Choi,21.0,"$122,319",,2021.0
-212,212,Greg Chalmers,12.0,"$112,972",,2021.0
-213,213,Bud Cauley,1.0,"$100,650",,2021.0
-214,214,Martin Kaymer,5.0,"$87,941",,2021.0
-215,215,Ricky Barnes,13.0,"$86,597",,2021.0
-216,216,Johnson Wagner,16.0,"$76,464",,2021.0
-217,217,Bernhard Langer,2.0,"$74,750",,2021.0
-218,218,Jonas Blixt,8.0,"$64,491",,2021.0
-219,219,Tiger Woods,3.0,"$64,200",,2021.0
-220,220,Martin Trainer,28.0,"$60,284",,2021.0
-221,221,John Senden,14.0,"$59,700",,2021.0
-222,222,Hunter Mahan,26.0,"$58,600",,2021.0
-223,223,Roberto Castro,7.0,"$52,212",,2021.0
-224,224,Zack Sucher,14.0,"$46,656",,2021.0
-225,225,Mike Weir,3.0,"$44,906",,2021.0
-226,226,William McGirt,11.0,"$44,290",,2021.0
-227,227,Sangmoon Bae,11.0,"$40,945",,2021.0
-228,228,Richard Johnson,7.0,"$36,899",,2021.0
-229,229,Robert Garrigus,7.0,"$36,243",,2021.0
-230,230,Kevin Stadler,21.0,"$32,191",,2021.0
-231,231,J.J. Henry,10.0,"$31,125",,2021.0
-232,232,José María Olazábal,2.0,"$28,635",,2021.0
-233,233,D.A. Points,18.0,"$26,865",,2021.0
-234,234,Dominic Bozzelli,13.0,"$24,035",,2021.0
-235,235,Ryan Blaum,12.0,"$22,869",,2021.0
-236,236,Shawn Stefani,12.0,"$21,235",,2021.0
-237,237,George McNeill,10.0,"$19,012",,2021.0
-238,238,Andres Romero,7.0,"$18,780",,2021.0
-239,239,Seung-Yul Noh,6.0,"$17,941",,2021.0
-240,240,Derek Ernst,4.0,"$16,625",,2021.0
-241,241,Charlie Beljan,6.0,"$15,263",,2021.0
-242,242,Jason Bohn,4.0,"$15,230",,2021.0
-243,243,Tommy Gainey,4.0,"$14,070",,2021.0
-244,244,Jerry Kelly,3.0,"$13,134",,2021.0
-245,245,Alex Cejka,5.0,"$10,050",,2021.0
-246,246,Fred Funk,1.0,"$9,000",,2021.0
-T247,T247,Arjun Atwal,8.0,"$8,120",,2021.0
-T247,T247,Zac Blair,4.0,"$8,120",,2021.0
-249,249,Retief Goosen,1.0,"$6,810",,2021.0
-250,250,Parker McLachlin,9.0,"$6,090",,2021.0
-1,1,Jon Rahm,22.0,"$7,705,933",1.0,2021.0
-2,2,Patrick Cantlay,24.0,"$7,638,805",4.0,2021.0
-3,3,Bryson DeChambeau,22.0,"$7,426,415",2.0,2021.0
-4,4,Collin Morikawa,23.0,"$7,059,908",2.0,2021.0
-5,5,Justin Thomas,23.0,"$6,537,153",1.0,2021.0
-6,6,Jordan Spieth,25.0,"$6,470,482",1.0,2021.0
-7,7,Louis Oosthuizen,21.0,"$6,306,679",,2021.0
-8,8,Harris English,26.0,"$6,200,481",2.0,2021.0
-9,9,Cameron Smith,24.0,"$5,851,867",1.0,2021.0
-10,10,Abraham Ancer,27.0,"$5,816,565",1.0,2021.0
-11,11,Tony Finau,27.0,"$5,740,097",1.0,2021.0
-12,12,Xander Schauffele,22.0,"$5,240,653",,2021.0
-13,13,Brooks Koepka,20.0,"$5,204,136",1.0,2021.0
-14,14,Sam Burns,26.0,"$5,160,030",1.0,2021.0
-15,15,Jason Kokrak,27.0,"$5,118,629",2.0,2021.0
-16,16,Viktor Hovland,24.0,"$5,048,772",1.0,2021.0
-17,17,Dustin Johnson,21.0,"$5,001,136",1.0,2021.0
-18,18,Hideki Matsuyama,27.0,"$4,963,594",1.0,2021.0
-19,19,Scottie Scheffler,29.0,"$4,505,589",,2021.0
-20,20,Rory McIlroy,21.0,"$4,391,809",1.0,2021.0
-21,21,Daniel Berger,23.0,"$4,258,579",1.0,2021.0
-22,22,Sungjae Im,35.0,"$4,157,182",,2021.0
-23,23,Billy Horschel,25.0,"$4,030,906",1.0,2021.0
-24,24,Patrick Reed,23.0,"$4,019,044",1.0,2021.0
-25,25,Corey Conners,29.0,"$4,007,567",,2021.0
-26,26,Joaquin Niemann,27.0,"$3,936,912",,2021.0
-27,27,Kevin Na,26.0,"$3,625,982",1.0,2021.0
-28,28,Stewart Cink,26.0,"$3,596,319",2.0,2021.0
-29,29,Max Homa,28.0,"$3,448,578",1.0,2021.0
-30,30,Lee Westwood,19.0,"$3,435,368",,2021.0
-31,31,Si Woo Kim,31.0,"$3,245,928",1.0,2021.0
-32,32,Brian Harman,28.0,"$3,221,821",,2021.0
-33,33,Paul Casey,20.0,"$3,129,666",,2021.0
-34,34,Marc Leishman,24.0,"$3,107,047",1.0,2021.0
-35,35,K.H. Lee,33.0,"$3,085,133",1.0,2021.0
-36,36,Charley Hoffman,29.0,"$3,049,763",,2021.0
-37,37,Sergio Garcia,24.0,"$2,998,555",1.0,2021.0
-38,38,Kevin Kisner,26.0,"$2,952,177",1.0,2021.0
-39,39,Webb Simpson,21.0,"$2,783,012",,2021.0
-40,40,Cam Davis,26.0,"$2,746,956",1.0,2021.0
-41,41,Phil Mickelson,23.0,"$2,707,199",1.0,2021.0
-42,42,Carlos Ortiz,28.0,"$2,682,104",1.0,2021.0
-43,43,Shane Lowry,21.0,"$2,636,597",,2021.0
-44,44,Lucas Glover,30.0,"$2,577,704",1.0,2021.0
-45,45,Keegan Bradley,27.0,"$2,572,089",,2021.0
-46,46,Russell Henley,25.0,"$2,545,330",,2021.0
-47,47,Matthew Wolff,20.0,"$2,507,324",,2021.0
-48,48,Matt Jones,30.0,"$2,496,677",1.0,2021.0
-49,49,Cameron Tringale,27.0,"$2,428,609",,2021.0
-50,50,Talor Gooch,28.0,"$2,291,437",,2021.0
-51,51,Ryan Palmer,23.0,"$2,276,042",,2021.0
-52,52,Charl Schwartzel,27.0,"$2,264,460",,2021.0
-53,53,Matt Fitzpatrick,20.0,"$2,252,351",,2021.0
-54,54,Branden Grace,27.0,"$2,222,244",1.0,2021.0
-55,55,Erik van Rooyen,27.0,"$2,211,281",1.0,2021.0
-56,56,Aaron Wise,24.0,"$2,207,563",,2021.0
-57,57,Chris Kirk,26.0,"$2,176,116",,2021.0
-58,58,Kevin Streelman,30.0,"$2,162,402",,2021.0
-59,59,Cameron Champ,26.0,"$2,154,103",1.0,2021.0
-60,60,Patton Kizzire,29.0,"$2,102,294",,2021.0
-61,61,Emiliano Grillo,30.0,"$2,100,336",,2021.0
-62,62,Sebastián Muñoz,32.0,"$2,097,446",,2021.0
-63,63,Alex Noren,25.0,"$2,085,051",,2021.0
-64,64,Jhonattan Vegas,26.0,"$2,069,765",,2021.0
-65,65,Maverick McNealy,26.0,"$2,055,002",,2021.0
-66,66,Harold Varner III,29.0,"$2,013,461",,2021.0
-67,67,Tyrrell Hatton,19.0,"$2,010,279",,2021.0
-68,68,Bubba Watson,22.0,"$1,873,381",,2021.0
-69,69,Mackenzie Hughes,28.0,"$1,845,824",,2021.0
-70,70,Harry Higgs,28.0,"$1,829,267",,2021.0
-71,71,Troy Merritt,33.0,"$1,827,790",,2021.0
-72,72,Martin Laird,27.0,"$1,812,120",1.0,2021.0
-73,73,Robert Streb,28.0,"$1,811,604",1.0,2021.0
-74,74,Hudson Swafford,29.0,"$1,759,907",1.0,2021.0
-75,75,Tom Hoge,34.0,"$1,690,223",,2021.0
-76,76,Keith Mitchell,28.0,"$1,665,249",,2021.0
-77,77,J.T. Poston,29.0,"$1,663,521",,2021.0
-78,78,Ian Poulter,21.0,"$1,641,459",,2021.0
-79,79,Lanto Griffin,29.0,"$1,612,446",,2021.0
-80,80,Brandon Hagy,28.0,"$1,593,365",,2021.0
-81,81,Andrew Putnam,32.0,"$1,572,704",,2021.0
-82,82,Dylan Frittelli,28.0,"$1,564,495",,2021.0
-83,83,Seamus Power,17.0,"$1,547,290",1.0,2021.0
-84,84,Adam Scott,19.0,"$1,517,533",,2021.0
-85,85,Adam Long,30.0,"$1,496,681",,2021.0
-86,86,Joel Dahmen,27.0,"$1,452,347",1.0,2021.0
-87,87,Peter Malnati,30.0,"$1,429,713",,2021.0
-88,88,Garrick Higgo,8.0,"$1,378,456",1.0,2021.0
-89,89,Henrik Norlander,29.0,"$1,377,085",,2021.0
-90,90,Matt Wallace,18.0,"$1,369,595",,2021.0
-91,91,Doc Redman,27.0,"$1,361,633",,2021.0
-92,92,Brendan Steele,24.0,"$1,358,526",,2021.0
-93,93,Brendon Todd,28.0,"$1,349,804",,2021.0
-94,94,Matt Kuchar,25.0,"$1,348,917",,2021.0
-95,95,Kramer Hickok,24.0,"$1,348,745",,2021.0
-96,96,Brandt Snedeker,28.0,"$1,347,790",,2021.0
-97,97,Brian Stuard,35.0,"$1,343,197",,2021.0
-98,98,Adam Hadwin,29.0,"$1,308,758",,2021.0
-99,99,Justin Rose,17.0,"$1,304,180",,2021.0
-100,100,Gary Woodland,25.0,"$1,294,062",,2021.0
-101,101,Jason Day,22.0,"$1,291,234",,2021.0
-102,102,Hank Lebioda,24.0,"$1,286,430",,2021.0
-103,103,Doug Ghim,27.0,"$1,283,807",,2021.0
-104,104,Luke List,31.0,"$1,243,787",,2021.0
-105,105,Zach Johnson,24.0,"$1,241,402",,2021.0
-106,106,C.T. Pan,27.0,"$1,227,777",,2021.0
-107,107,Denny McCarthy,30.0,"$1,212,977",,2021.0
-108,108,Pat Perez,32.0,"$1,200,834",,2021.0
-109,109,Wyndham Clark,27.0,"$1,198,800",,2021.0
-110,110,James Hahn,25.0,"$1,197,328",,2021.0
-111,111,Richy Werenski,31.0,"$1,180,394",,2021.0
-112,112,Tommy Fleetwood,18.0,"$1,149,631",,2021.0
-113,113,Sepp Straka,31.0,"$1,136,615",,2021.0
-114,114,Russell Knox,32.0,"$1,130,467",,2021.0
-115,115,Chez Reavie,30.0,"$1,126,279",,2021.0
-116,116,Matthew NeSmith,29.0,"$1,111,102",,2021.0
-117,117,Roger Sloan,27.0,"$1,107,623",,2021.0
-118,118,Adam Schenk,33.0,"$1,101,722",,2021.0
-119,119,Rickie Fowler,24.0,"$1,089,904",,2021.0
-120,120,Sam Ryder,32.0,"$1,080,154",,2021.0
-121,121,Scott Piercy,26.0,"$1,071,702",,2021.0
-122,122,Kyle Stanley,29.0,"$1,061,178",,2021.0
-123,123,Scott Stallings,27.0,"$1,030,868",,2021.0
-124,124,Tyler McCumber,25.0,"$1,025,909",,2021.0
-125,125,Francesco Molinari,15.0,"$996,977",,2021.0
-126,126,Rory Sabbatini,25.0,"$968,716",,2021.0
-127,127,Patrick Rodgers,34.0,"$968,100",,2021.0
-128,128,Ryan Armour,28.0,"$962,354",,2021.0
-129,129,Anirban Lahiri,22.0,"$952,131",,2021.0
-130,130,Charles Howell III,21.0,"$947,154",,2021.0
-131,131,Camilo Villegas,26.0,"$945,774",,2021.0
-132,132,Chesson Hadley,27.0,"$940,986",,2021.0
-133,133,Brice Garnett,31.0,"$926,914",,2021.0
-134,134,Bo Hoag,32.0,"$916,522",,2021.0
-135,135,Brian Gay,27.0,"$916,158",1.0,2021.0
-136,136,Michael Thompson,24.0,"$907,001",,2021.0
-137,137,Austin Cook,29.0,"$898,902",,2021.0
-138,138,Nate Lashley,25.0,"$879,981",,2021.0
-139,139,Nick Taylor,29.0,"$862,159",,2021.0
-140,140,Chase Seiffert,28.0,"$824,736",,2021.0
-141,141,Cameron Percy,27.0,"$784,607",,2021.0
-142,142,Ryan Moore,16.0,"$777,994",,2021.0
-143,143,Mark Hubbard,32.0,"$762,137",,2021.0
-144,144,Bo Van Pelt,28.0,"$752,234",,2021.0
-145,145,Joseph Bramlett,27.0,"$735,440",,2021.0
-146,146,Vince Whaley,27.0,"$692,292",,2021.0
-147,147,Satoshi Kodaira,27.0,"$671,889",,2021.0
-148,148,Jimmy Walker,25.0,"$661,287",,2021.0
-149,149,Beau Hossler,30.0,"$660,397",,2021.0
-150,150,Vaughn Taylor,30.0,"$648,742",,2021.0
-151,151,Padraig Harrington,16.0,"$640,513",,2021.0
-152,152,Steve Stricker,11.0,"$640,311",,2021.0
-153,153,Michael Gligic,29.0,"$620,442",,2021.0
-154,154,Danny Willett,16.0,"$618,364",,2021.0
-155,155,Andrew Landry,24.0,"$594,200",,2021.0
-156,156,John Huh,20.0,"$581,646",,2021.0
-157,157,Tom Lewis,28.0,"$581,245",,2021.0
-158,158,Rafael Campos,25.0,"$565,186",,2021.0
-159,159,Bronson Burgoon,26.0,"$558,656",,2021.0
-160,160,Kris Ventura,29.0,"$547,615",,2021.0
-161,161,Byeong Hun An,29.0,"$540,748",,2021.0
-162,162,Scott Brown,30.0,"$531,728",,2021.0
-163,163,Tyler Duncan,33.0,"$509,882",,2021.0
-164,164,Jason Dufner,29.0,"$505,269",,2021.0
-165,165,Will Gordon,31.0,"$488,887",,2021.0
-166,166,Rafa Cabrera Bello,26.0,"$486,337",,2021.0
-167,167,Robby Shelton,32.0,"$463,699",,2021.0
-168,168,Rob Oppenheim,27.0,"$448,364",,2021.0
-169,169,Sung Kang,31.0,"$428,931",,2021.0
-170,170,Sean O'Hair,21.0,"$427,268",,2021.0
-171,171,J.J. Spaun,26.0,"$419,752",,2021.0
-172,172,Ben Martin,18.0,"$411,673",,2021.0
-173,173,Jim Herman,22.0,"$407,995",,2021.0
-174,174,David Hearn,24.0,"$406,435",,2021.0
-175,175,Peter Uihlein,12.0,"$399,417",,2021.0
-176,176,Scott Harrington,30.0,"$370,388",,2021.0
-177,177,Mito Pereira,7.0,"$370,348",,2021.0
-178,178,Mark Anderson,21.0,"$360,642",,2021.0
-179,179,"Ted Potter, Jr.",25.0,"$355,877",,2021.0
-180,180,Danny Lee,24.0,"$347,862",,2021.0
-181,181,Xinjun Zhang,28.0,"$343,355",,2021.0
-182,182,Luke Donald,23.0,"$333,336",,2021.0
-183,183,Kevin Tway,24.0,"$323,098",,2021.0
-184,184,Wesley Bryan,11.0,"$320,426",,2021.0
-185,185,Kevin Chappell,12.0,"$282,510",,2021.0
-186,186,Fabián Gómez,24.0,"$258,734",,2021.0
-187,187,D.J. Trahan,24.0,"$255,177",,2021.0
-188,188,Grayson Murray,22.0,"$255,130",,2021.0
-189,189,Henrik Stenson,18.0,"$245,906",,2021.0
-190,190,Chris Baker,22.0,"$238,627",,2021.0
-191,191,Ryan Brehm,21.0,"$238,198",,2021.0
-192,192,Ben Taylor,19.0,"$232,604",,2021.0
-193,193,Josh Teater,17.0,"$224,952",,2021.0
-194,194,Nelson Ledesma,19.0,"$215,567",,2021.0
-195,195,Graeme McDowell,15.0,"$212,749",,2021.0
-196,196,Michael Gellerman,19.0,"$198,087",,2021.0
-197,197,Rhein Gibson,23.0,"$195,664",,2021.0
-198,198,Jim Furyk,7.0,"$184,897",,2021.0
-199,199,Sebastian Cappelen,23.0,"$179,289",,2021.0
-200,200,David Lingmerth,11.0,"$175,817",,2021.0
-201,201,Kiradech Aphibarnrat,17.0,"$166,496",,2021.0
-202,202,Bill Haas,20.0,"$161,963",,2021.0
-203,203,Aaron Baddeley,22.0,"$160,640",,2021.0
-204,204,Nick Watney,25.0,"$159,576",,2021.0
-205,205,Tim Wilkinson,16.0,"$157,744",,2021.0
-206,206,Wes Roach,14.0,"$156,364",,2021.0
-207,207,Kelly Kraft,17.0,"$138,616",,2021.0
-208,208,J.B. Holmes,19.0,"$136,546",,2021.0
-209,209,Jonathan Byrd,15.0,"$135,425",,2021.0
-210,210,Michael Kim,30.0,"$132,613",,2021.0
-211,211,K.J. Choi,21.0,"$122,319",,2021.0
-212,212,Greg Chalmers,12.0,"$112,972",,2021.0
-213,213,Bud Cauley,1.0,"$100,650",,2021.0
-214,214,Martin Kaymer,5.0,"$87,941",,2021.0
-215,215,Ricky Barnes,13.0,"$86,597",,2021.0
-216,216,Johnson Wagner,16.0,"$76,464",,2021.0
-217,217,Bernhard Langer,2.0,"$74,750",,2021.0
-218,218,Jonas Blixt,8.0,"$64,491",,2021.0
-219,219,Tiger Woods,3.0,"$64,200",,2021.0
-220,220,Martin Trainer,28.0,"$60,284",,2021.0
-221,221,John Senden,14.0,"$59,700",,2021.0
-222,222,Hunter Mahan,26.0,"$58,600",,2021.0
-223,223,Roberto Castro,7.0,"$52,212",,2021.0
-224,224,Zack Sucher,14.0,"$46,656",,2021.0
-225,225,Mike Weir,3.0,"$44,906",,2021.0
-226,226,William McGirt,11.0,"$44,290",,2021.0
-227,227,Sangmoon Bae,11.0,"$40,945",,2021.0
-228,228,Richard Johnson,7.0,"$36,899",,2021.0
-229,229,Robert Garrigus,7.0,"$36,243",,2021.0
-230,230,Kevin Stadler,21.0,"$32,191",,2021.0
-231,231,J.J. Henry,10.0,"$31,125",,2021.0
-232,232,José María Olazábal,2.0,"$28,635",,2021.0
-233,233,D.A. Points,18.0,"$26,865",,2021.0
-234,234,Dominic Bozzelli,13.0,"$24,035",,2021.0
-235,235,Ryan Blaum,12.0,"$22,869",,2021.0
-236,236,Shawn Stefani,12.0,"$21,235",,2021.0
-237,237,George McNeill,10.0,"$19,012",,2021.0
-238,238,Andres Romero,7.0,"$18,780",,2021.0
-239,239,Seung-Yul Noh,6.0,"$17,941",,2021.0
-240,240,Derek Ernst,4.0,"$16,625",,2021.0
-241,241,Charlie Beljan,6.0,"$15,263",,2021.0
-242,242,Jason Bohn,4.0,"$15,230",,2021.0
-243,243,Tommy Gainey,4.0,"$14,070",,2021.0
-244,244,Jerry Kelly,3.0,"$13,134",,2021.0
-245,245,Alex Cejka,5.0,"$10,050",,2021.0
-246,246,Fred Funk,1.0,"$9,000",,2021.0
-T247,T247,Arjun Atwal,8.0,"$8,120",,2021.0
-T247,T247,Zac Blair,4.0,"$8,120",,2021.0
-249,249,Retief Goosen,1.0,"$6,810",,2021.0
-250,250,Parker McLachlin,9.0,"$6,090",,2021.0
-,,,,,,
+,RANK LAST WEEK,PLAYER NAME,EVENTS,MONEY,EVENT
+0,,Scottie Scheffler,1,"$2,700,000",The Masters
+1,,Rory McIlroy,1,"$1,620,000",The Masters
+2,,Shane Lowry,1,"$870,000",The Masters
+3,,Cameron Smith,1,"$870,000",The Masters
+4,,Collin Morikawa,1,"$600,000",The Masters
+5,T33,Corey Conners,1,"$521,250",The Masters
+6,,Will Zalatoris,1,"$521,250",The Masters
+7,,Sungjae Im,1,"$450,000",The Masters
+8,,Justin Thomas,1,"$450,000",The Masters
+9,,Cameron Champ,1,"$390,000",The Masters
+10,,Charl Schwartzel,1,"$390,000",The Masters
+11,,Dustin Johnson,1,"$330,000",The Masters
+12,,Danny Willett,1,"$330,000",The Masters
+13,,Matt Fitzpatrick,1,"$225,333",The Masters
+14,,Tommy Fleetwood,1,"$225,333",The Masters
+15,,Talor Gooch,1,"$225,333",The Masters
+16,,Harry Higgs,1,"$225,333",The Masters
+17,,Jason Kokrak,1,"$225,333",The Masters
+18,,Hideki Matsuyama,1,"$225,333",The Masters
+19,,Kevin Na,1,"$225,333",The Masters
+20,,Lee Westwood,1,"$225,333",The Masters
+21,,Sergio Garcia,1,"$138,000",The Masters
+22,1,J.J. Spaun,1,"$138,000",The Masters
+23,,Harold Varner III,1,"$138,000",The Masters
+24,,Viktor Hovland,1,"$111,000",The Masters
+25,,Seamus Power,1,"$111,000",The Masters
+26,,Jon Rahm,1,"$111,000",The Masters
+27,T18,Lucas Glover,1,"$93,150",The Masters
+28,,Russell Henley,1,"$93,150",The Masters
+29,,Marc Leishman,1,"$93,150",The Masters
+30,,Sepp Straka,1,"$93,150",The Masters
+31,T55,Hudson Swafford,1,"$93,150",The Masters
+32,T28,Tony Finau,1,"$75,563",The Masters
+33,,Joaquin Niemann,1,"$75,563",The Masters
+34,,Patrick Reed,1,"$75,563",The Masters
+35,,Webb Simpson,1,"$75,563",The Masters
+36,,Patrick Cantlay,1,"$63,000",The Masters
+37,,Tom Hoge,1,"$63,000",The Masters
+38,T13,Si Woo Kim,1,"$63,000",The Masters
+39,,Bubba Watson,1,"$63,000",The Masters
+40,,Billy Horschel,1,"$55,500",The Masters
+41,,Christiaan Bezuidenhout,1,"$51,000",The Masters
+42,,Kevin Kisner,1,"$51,000",The Masters
+43,,Cam Davis,1,"$46,500",The Masters
+44,,Tiger Woods,1,"$43,500",The Masters
+45,,Max Homa,1,"$40,050",The Masters
+46,,Adam Scott,1,"$40,050",The Masters
+47,,Daniel Berger,1,"$37,350",The Masters
+48,,Mackenzie Hughes,1,"$37,350",The Masters
+49,,Tyrrell Hatton,1,"$36,000",The Masters
+0,T10,Matt Fitzpatrick,1,"$3,150,000",U.S. Open
+1,T18,Scottie Scheffler,1,"$1,557,687",U.S. Open
+2,,Will Zalatoris,1,"$1,557,687",U.S. Open
+3,,Hideki Matsuyama,1,"$859,032",U.S. Open
+4,1,Rory McIlroy,1,"$674,953",U.S. Open
+5,,Collin Morikawa,1,"$674,953",U.S. Open
+6,,Keegan Bradley,1,"$515,934",U.S. Open
+7,T35,Adam Hadwin,1,"$515,934",U.S. Open
+8,,Denny McCarthy,1,"$515,934",U.S. Open
+9,,Joel Dahmen,1,"$407,220",U.S. Open
+10,,Gary Woodland,1,"$407,220",U.S. Open
+11,,Seamus Power,1,"$347,058",U.S. Open
+12,,Jon Rahm,1,"$347,058",U.S. Open
+13,,Hayden Buckley,1,"$241,302",U.S. Open
+14,,Patrick Cantlay,1,"$241,302",U.S. Open
+15,T35,Nick Hardy,1,"$241,302",U.S. Open
+16,,Marc Leishman,1,"$241,302",U.S. Open
+17,T25,Sebastián Muñoz,1,"$241,302",U.S. Open
+18,,Xander Schauffele,1,"$241,302",U.S. Open
+19,,Adam Scott,1,"$241,302",U.S. Open
+20,,Cameron Tringale,1,"$241,302",U.S. Open
+21,T28,Mackenzie Hughes,1,"$150,849",U.S. Open
+22,,Adam Schenk,1,"$150,849",U.S. Open
+23,T4,Sam Burns,1,"$127,002",U.S. Open
+24,,Aaron Wise,1,"$127,002",U.S. Open
+25,,Andrew Putnam,1,"$100,331",U.S. Open
+26,,Davis Riley,1,"$100,331",U.S. Open
+27,T18,Patrick Rodgers,1,"$100,331",U.S. Open
+28,,Callum Tarren,1,"$100,331",U.S. Open
+29,,Joseph Bramlett,1,"$75,916",U.S. Open
+30,,K.H. Lee,1,"$75,916",U.S. Open
+31,,Matthew NeSmith,1,"$75,916",U.S. Open
+32,T4,Justin Rose,1,"$75,916",U.S. Open
+33,,Jordan Spieth,1,"$75,916",U.S. Open
+34,3,Justin Thomas,1,"$75,916",U.S. Open
+35,,Brian Harman,1,"$59,332",U.S. Open
+36,,Max Homa,1,"$50,672",U.S. Open
+37,,Joaquin Niemann,1,"$50,672",U.S. Open
+38,,David Lingmerth,1,"$44,038",U.S. Open
+39,,Beau Hossler,1,"$40,630",U.S. Open
+40,,Brooks Koepka,1,"$39,432",U.S. Open
+41,,Bryson DeChambeau,1,"$38,511",U.S. Open
+42,,Tyrrell Hatton,1,"$38,511",U.S. Open
+43,,Harris English,1,"$37,221",U.S. Open
+44,,Grayson Murray,1,"$36,843",U.S. Open
+0,,Billy Horschel,1,"$2,160,000",The Memorial Tournament
+1,,Aaron Wise,1,"$1,308,000",The Memorial Tournament
+2,,Patrick Cantlay,1,"$708,000",The Memorial Tournament
+3,,Joaquin Niemann,1,"$708,000",The Memorial Tournament
+4,T23,Daniel Berger,1,"$411,600",The Memorial Tournament
+5,T23,Max Homa,1,"$411,600",The Memorial Tournament
+6,T27,Denny McCarthy,1,"$411,600",The Memorial Tournament
+7,T57,Sahith Theegala,1,"$411,600",The Memorial Tournament
+8,,Will Zalatoris,1,"$411,600",The Memorial Tournament
+9,T15,Sungjae Im,1,"$303,000",The Memorial Tournament
+10,,Jon Rahm,1,"$303,000",The Memorial Tournament
+11,,Brendan Steele,1,"$303,000",The Memorial Tournament
+12,,Corey Conners,1,"$221,400",The Memorial Tournament
+13,,Si Woo Kim,1,"$221,400",The Memorial Tournament
+14,T7,Mito Pereira,1,"$221,400",The Memorial Tournament
+15,T4,Davis Riley,1,"$221,400",The Memorial Tournament
+16,,Cameron Smith,1,"$221,400",The Memorial Tournament
+17,,Adam Hadwin,1,"$142,800",The Memorial Tournament
+18,,Brian Harman,1,"$142,800",The Memorial Tournament
+19,,Garrick Higgo,1,"$142,800",The Memorial Tournament
+20,,Charles Howell III,1,"$142,800",The Memorial Tournament
+21,,Rory McIlroy,1,"$142,800",The Memorial Tournament
+22,,Keith Mitchell,1,"$142,800",The Memorial Tournament
+23,,Xander Schauffele,1,"$142,800",The Memorial Tournament
+24,T7,Jordan Spieth,1,"$142,800",The Memorial Tournament
+25,,Luke List,1,"$89,400",The Memorial Tournament
+26,,Francesco Molinari,1,"$89,400",The Memorial Tournament
+27,T12,Pat Perez,1,"$89,400",The Memorial Tournament
+28,68,Aaron Rai,1,"$89,400",The Memorial Tournament
+29,,Adam Schenk,1,"$89,400",The Memorial Tournament
+30,,Jason Day,1,"$78,600",The Memorial Tournament
+31,,Abraham Ancer,1,"$68,520",The Memorial Tournament
+32,T63,Joel Dahmen,1,"$68,520",The Memorial Tournament
+33,T63,Emiliano Grillo,1,"$68,520",The Memorial Tournament
+34,T21,Beau Hossler,1,"$68,520",The Memorial Tournament
+35,,Shane Lowry,1,"$68,520",The Memorial Tournament
+36,,Keegan Bradley,1,"$51,000",The Memorial Tournament
+37,,Wyndham Clark,1,"$51,000",The Memorial Tournament
+38,,Mackenzie Hughes,1,"$51,000",The Memorial Tournament
+39,,Martin Laird,1,"$51,000",The Memorial Tournament
+40,T48,David Lipsky,1,"$51,000",The Memorial Tournament
+41,T57,Matthew NeSmith,1,"$51,000",The Memorial Tournament
+42,,J.T. Poston,1,"$51,000",The Memorial Tournament
+43,,Jhonattan Vegas,1,"$51,000",The Memorial Tournament
+44,,Matt Kuchar,1,"$37,800",The Memorial Tournament
+45,,Sepp Straka,1,"$37,800",The Memorial Tournament
+46,T40,Adam Svensson,1,"$37,800",The Memorial Tournament
+47,T48,Lucas Herbert,1,"$32,040",The Memorial Tournament
+48,,David Lingmerth,1,"$32,040",The Memorial Tournament
+49,,Cameron Tringale,1,"$32,040",The Memorial Tournament
+50,,Lanto Griffin,1,"$29,760",The Memorial Tournament
+51,T21,Viktor Hovland,1,"$29,760",The Memorial Tournament
+52,T7,Cam Davis,1,"$27,994",The Memorial Tournament
+53,T15,Chris Kirk,1,"$27,994",The Memorial Tournament
+54,,K.H. Lee,1,"$27,994",The Memorial Tournament
+55,T57,Troy Merritt,1,"$27,994",The Memorial Tournament
+56,T52,C.T. Pan,1,"$27,994",The Memorial Tournament
+57,T7,Patrick Reed,1,"$27,994",The Memorial Tournament
+58,,Camilo Villegas,1,"$27,994",The Memorial Tournament
+59,,Doug Ghim,1,"$26,640",The Memorial Tournament
+60,T40,Lucas Glover,1,"$26,640",The Memorial Tournament
+61,T57,Brandt Snedeker,1,"$26,640",The Memorial Tournament
+62,,Cameron Young,1,"$26,640",The Memorial Tournament
+63,T57,Rickie Fowler,1,"$25,800",The Memorial Tournament
+64,,Kramer Hickok,1,"$25,800",The Memorial Tournament
+65,,Carlos Ortiz,1,"$25,800",The Memorial Tournament
+66,,Adam Scott,1,"$25,200",The Memorial Tournament
+67,,Brandon Wu,1,"$24,840",The Memorial Tournament
+68,,Ryan Moore,1,"$24,600",The Memorial Tournament
+0,T18,Rory McIlroy,1,"$1,566,000",RBC Canadian Open
+1,,Tony Finau,1,"$948,300",RBC Canadian Open
+2,,Justin Thomas,1,"$600,300",RBC Canadian Open
+3,,Sam Burns,1,"$391,500",RBC Canadian Open
+4,,Justin Rose,1,"$391,500",RBC Canadian Open
+5,T13,Corey Conners,1,"$315,375",RBC Canadian Open
+6,T37,Wyndham Clark,1,"$273,325",RBC Canadian Open
+7,T53,Chris Kirk,1,"$273,325",RBC Canadian Open
+8,T18,Keith Mitchell,1,"$273,325",RBC Canadian Open
+9,,Matt Fitzpatrick,1,"$219,675",RBC Canadian Open
+10,,Danny Lee,1,"$219,675",RBC Canadian Open
+11,T32,Shane Lowry,1,"$219,675",RBC Canadian Open
+12,,Austin Cook,1,"$160,515",RBC Canadian Open
+13,,Kelly Kraft,1,"$160,515",RBC Canadian Open
+14,T26,Aaron Rai,1,"$160,515",RBC Canadian Open
+15,,Brendon Todd,1,"$160,515",RBC Canadian Open
+16,,Harold Varner III,1,"$160,515",RBC Canadian Open
+17,T60,Doug Ghim,1,"$123,975",RBC Canadian Open
+18,,Patrick Rodgers,1,"$123,975",RBC Canadian Open
+19,,Scottie Scheffler,1,"$123,975",RBC Canadian Open
+20,,Adam Long,1,"$94,830",RBC Canadian Open
+21,,Scott Piercy,1,"$94,830",RBC Canadian Open
+22,,Alex Smalley,1,"$94,830",RBC Canadian Open
+23,T45,Adam Svensson,1,"$94,830",RBC Canadian Open
+24,,John Huh,1,"$71,485",RBC Canadian Open
+25,,Jim Knous,1,"$71,485",RBC Canadian Open
+26,,Sebastián Muñoz,1,"$71,485",RBC Canadian Open
+27,,Jonas Blixt,1,"$57,047",RBC Canadian Open
+28,T32,Emiliano Grillo,1,"$57,047",RBC Canadian Open
+29,T37,Mackenzie Hughes,1,"$57,047",RBC Canadian Open
+30,,Hank Lebioda,1,"$57,047",RBC Canadian Open
+31,,Chase Seiffert,1,"$57,047",RBC Canadian Open
+32,,Nick Taylor,1,"$57,047",RBC Canadian Open
+33,,Danny Willett,1,"$57,047",RBC Canadian Open
+34,,Ryan Armour,1,"$39,730",RBC Canadian Open
+35,T18,Adam Hadwin,1,"$39,730",RBC Canadian Open
+36,,Nick Hardy,1,"$39,730",RBC Canadian Open
+37,,Charley Hoffman,1,"$39,730",RBC Canadian Open
+38,,Justin Lower,1,"$39,730",RBC Canadian Open
+39,69,Ryan Moore,1,"$39,730",RBC Canadian Open
+40,,Seung-Yul Noh,1,"$39,730",RBC Canadian Open
+41,,Matt Wallace,1,"$39,730",RBC Canadian Open
+42,,Vince Whaley,1,"$39,730",RBC Canadian Open
+43,,Mark Hubbard,1,"$30,015",RBC Canadian Open
+44,,Austin Smotherman,1,"$30,015",RBC Canadian Open
+45,,Paul Barjon,1,"$26,535",RBC Canadian Open
+46,T64,Carlos Ortiz,1,"$26,535",RBC Canadian Open
+47,,Lee Hodges,1,"$22,568",RBC Canadian Open
+48,T13,Cameron Smith,1,"$22,568",RBC Canadian Open
+49,T60,Brandt Snedeker,1,"$22,568",RBC Canadian Open
+50,,Vaughn Taylor,1,"$22,568",RBC Canadian Open
+51,,Brett Drewitt,1,"$20,387",RBC Canadian Open
+52,,Ben Martin,1,"$20,387",RBC Canadian Open
+53,,Robert Streb,1,"$20,387",RBC Canadian Open
+54,T5,Sahith Theegala,1,"$20,387",RBC Canadian Open
+55,,Bo Van Pelt,1,"$20,387",RBC Canadian Open
+56,T37,Jhonattan Vegas,1,"$20,387",RBC Canadian Open
+57,,J.J. Henry,1,"$19,662",RBC Canadian Open
+58,,Cameron Percy,1,"$19,662",RBC Canadian Open
+59,,Dylan Frittelli,1,"$19,314",RBC Canadian Open
+60,T64,Kramer Hickok,1,"$19,314",RBC Canadian Open
+61,,Ben Crane,1,"$19,053",RBC Canadian Open
+62,,Brandon Hagy,1,"$18,531",RBC Canadian Open
+63,,Andrew Novak,1,"$18,531",RBC Canadian Open
+64,,Sean O'Hair,1,"$18,531",RBC Canadian Open
+65,,David Skinns,1,"$18,531",RBC Canadian Open
+66,,Trey Mullinax,1,"$18,009",RBC Canadian Open
+67,,Dawie van der Walt,1,"$17,835",RBC Canadian Open
+0,T25,K.H. Lee,1,"$1,638,000",AT&T Bryon Nelson
+1,,Jordan Spieth,1,"$991,900",AT&T Bryon Nelson
+2,,Hideki Matsuyama,1,"$536,900",AT&T Bryon Nelson
+3,,Sebastián Muñoz,1,"$536,900",AT&T Bryon Nelson
+4,,Ryan Palmer,1,"$336,700",AT&T Bryon Nelson
+5,,Xander Schauffele,1,"$336,700",AT&T Bryon Nelson
+6,,Justin Thomas,1,"$336,700",AT&T Bryon Nelson
+7,,Charl Schwartzel,1,"$284,375",AT&T Bryon Nelson
+8,T9,James Hahn,1,"$247,975",AT&T Bryon Nelson
+9,T50,Peter Malnati,1,"$247,975",AT&T Bryon Nelson
+10,,Davis Riley,1,"$247,975",AT&T Bryon Nelson
+11,,Christiaan Bezuidenhout,1,"$193,375",AT&T Bryon Nelson
+12,T48,Matt Kuchar,1,"$193,375",AT&T Bryon Nelson
+13,,Alex Noren,1,"$193,375",AT&T Bryon Nelson
+14,,Brice Garnett,1,"$161,525",AT&T Bryon Nelson
+15,,Scottie Scheffler,1,"$161,525",AT&T Bryon Nelson
+16,,Tom Hoge,1,"$116,708",AT&T Bryon Nelson
+17,,Beau Hossler,1,"$116,708",AT&T Bryon Nelson
+18,,Jason Kokrak,1,"$116,708",AT&T Bryon Nelson
+19,,Nate Lashley,1,"$116,708",AT&T Bryon Nelson
+20,,Francesco Molinari,1,"$116,708",AT&T Bryon Nelson
+21,,Mito Pereira,1,"$116,708",AT&T Bryon Nelson
+22,,Seamus Power,1,"$116,708",AT&T Bryon Nelson
+23,,David Lipsky,1,"$68,445",AT&T Bryon Nelson
+24,,Joaquin Niemann,1,"$68,445",AT&T Bryon Nelson
+25,T40,Rory Sabbatini,1,"$68,445",AT&T Bryon Nelson
+26,T25,Austin Smotherman,1,"$68,445",AT&T Bryon Nelson
+27,,Scott Stallings,1,"$68,445",AT&T Bryon Nelson
+28,T63,Michael Thompson,1,"$68,445",AT&T Bryon Nelson
+29,,Vince Whaley,1,"$68,445",AT&T Bryon Nelson
+30,,Mark Hubbard,1,"$50,808",AT&T Bryon Nelson
+31,,Maverick McNealy,1,"$50,808",AT&T Bryon Nelson
+32,T63,Taylor Moore,1,"$50,808",AT&T Bryon Nelson
+33,,Trey Mullinax,1,"$50,808",AT&T Bryon Nelson
+34,,Patrick Rodgers,1,"$50,808",AT&T Bryon Nelson
+35,,Adam Scott,1,"$50,808",AT&T Bryon Nelson
+36,,Cameron Champ,1,"$36,855",AT&T Bryon Nelson
+37,,Branden Grace,1,"$36,855",AT&T Bryon Nelson
+38,T6,Stephan Jaeger,1,"$36,855",AT&T Bryon Nelson
+39,,Carlos Ortiz,1,"$36,855",AT&T Bryon Nelson
+40,,Pat Perez,1,"$36,855",AT&T Bryon Nelson
+41,,David Skinns,1,"$36,855",AT&T Bryon Nelson
+42,,J.J. Spaun,1,"$36,855",AT&T Bryon Nelson
+43,,Emiliano Grillo,1,"$25,680",AT&T Bryon Nelson
+44,T31,Justin Lower,1,"$25,680",AT&T Bryon Nelson
+45,,Andrew Novak,1,"$25,680",AT&T Bryon Nelson
+46,,Aaron Rai,1,"$25,680",AT&T Bryon Nelson
+47,T55,Callum Tarren,1,"$25,680",AT&T Bryon Nelson
+48,,Joseph Bramlett,1,"$21,635",AT&T Bryon Nelson
+49,T15,Jason Day,1,"$21,635",AT&T Bryon Nelson
+50,T6,Lanto Griffin,1,"$21,635",AT&T Bryon Nelson
+51,,Marc Leishman,1,"$21,635",AT&T Bryon Nelson
+52,T31,Matthew NeSmith,1,"$21,635",AT&T Bryon Nelson
+53,,Aaron Wise,1,"$21,635",AT&T Bryon Nelson
+54,,Jared Wolfe,1,"$21,635",AT&T Bryon Nelson
+55,,Brandon Wu,1,"$21,635",AT&T Bryon Nelson
+56,,Tyler Duncan,1,"$20,202",AT&T Bryon Nelson
+57,,Tommy Fleetwood,1,"$20,202",AT&T Bryon Nelson
+58,,Dustin Johnson,1,"$20,202",AT&T Bryon Nelson
+59,,Ian Poulter,1,"$20,202",AT&T Bryon Nelson
+60,,Matthias Schwab,1,"$20,202",AT&T Bryon Nelson
+61,T15,Jhonattan Vegas,1,"$20,202",AT&T Bryon Nelson
+62,T50,Paul Barjon,1,"$19,292",AT&T Bryon Nelson
+63,,Wesley Bryan,1,"$19,292",AT&T Bryon Nelson
+64,,Bill Haas,1,"$19,292",AT&T Bryon Nelson
+65,,Peter Uihlein,1,"$19,292",AT&T Bryon Nelson
+66,T45,Dylan Frittelli,1,"$18,564",AT&T Bryon Nelson
+67,,Chesson Hadley,1,"$18,564",AT&T Bryon Nelson
+68,,Seth Reeves,1,"$18,564",AT&T Bryon Nelson
+69,,Adam Svensson,1,"$18,564",AT&T Bryon Nelson
+70,T36,Michael Gligic,1,"$17,927",AT&T Bryon Nelson
+71,,Sepp Straka,1,"$17,927",AT&T Bryon Nelson
+72,,Vaughn Taylor,1,"$17,927",AT&T Bryon Nelson
+73,,Kiradech Aphibarnrat,1,"$17,381",AT&T Bryon Nelson
+74,,Keith Mitchell,1,"$17,381",AT&T Bryon Nelson
+75,,Martin Trainer,1,"$17,381",AT&T Bryon Nelson
+76,T9,Adam Schenk,1,"$16,926",AT&T Bryon Nelson
+77,,Sahith Theegala,1,"$16,926",AT&T Bryon Nelson
+78,T40,Dawie van der Walt,1,"$16,562",AT&T Bryon Nelson
+79,,Patton Kizzire,1,"$16,198",AT&T Bryon Nelson
+80,,Max McGreevy,1,"$16,198",AT&T Bryon Nelson
+0,T14,Xander Schauffele,1,"$1,494,000",Travelers Championship
+1,,J.T. Poston,1,"$738,700",Travelers Championship
+2,,Sahith Theegala,1,"$738,700",Travelers Championship
+3,,Chesson Hadley,1,"$406,700",Travelers Championship
+4,,Kevin Kisner,1,"$320,588",Travelers Championship
+5,,Keith Mitchell,1,"$320,588",Travelers Championship
+6,T14,Nick Hardy,1,"$243,605",Travelers Championship
+7,36,Brian Harman,1,"$243,605",Travelers Championship
+8,,William McGirt,1,"$243,605",Travelers Championship
+9,,Chez Reavie,1,"$243,605",Travelers Championship
+10,,Scott Stallings,1,"$243,605",Travelers Championship
+11,T14,Patrick Cantlay,1,"$159,775",Travelers Championship
+12,,Tony Finau,1,"$159,775",Travelers Championship
+13,,John Huh,1,"$159,775",Travelers Championship
+14,,Martin Laird,1,"$159,775",Travelers Championship
+15,T2,Scottie Scheffler,1,"$159,775",Travelers Championship
+16,,Webb Simpson,1,"$159,775",Travelers Championship
+17,T7,Keegan Bradley,1,"$106,102",Travelers Championship
+18,44,Harris English,1,"$106,102",Travelers Championship
+19,T30,K.H. Lee,1,"$106,102",Travelers Championship
+20,,Luke List,1,"$106,102",Travelers Championship
+21,T5,Rory McIlroy,1,"$106,102",Travelers Championship
+22,T30,Matthew NeSmith,1,"$106,102",Travelers Championship
+23,,Ryan Armour,1,"$61,835",Travelers Championship
+24,,Bill Haas,1,"$61,835",Travelers Championship
+25,,Lee Hodges,1,"$61,835",Travelers Championship
+26,T22,Mackenzie Hughes,1,"$61,835",Travelers Championship
+27,,Nate Lashley,1,"$61,835",Travelers Championship
+28,,Adam Long,1,"$61,835",Travelers Championship
+29,T12,Seamus Power,1,"$61,835",Travelers Championship
+30,,Brendan Steele,1,"$61,835",Travelers Championship
+31,,Kevin Streelman,1,"$61,835",Travelers Championship
+32,,Adam Svensson,1,"$61,835",Travelers Championship
+33,,Wyndham Clark,1,"$43,243",Travelers Championship
+34,,Charles Howell III,1,"$43,243",Travelers Championship
+35,,Sam Ryder,1,"$43,243",Travelers Championship
+36,,Robert Streb,1,"$43,243",Travelers Championship
+37,,Michael Gligic,1,"$36,105",Travelers Championship
+38,,Aaron Rai,1,"$36,105",Travelers Championship
+39,,Matthew Wolff,1,"$36,105",Travelers Championship
+40,T14,Hayden Buckley,1,"$31,125",Travelers Championship
+41,,Harold Varner III,1,"$31,125",Travelers Championship
+42,,Tyler Duncan,1,"$23,679",Travelers Championship
+43,,Tommy Fleetwood,1,"$23,679",Travelers Championship
+44,,Mark Hubbard,1,"$23,679",Travelers Championship
+45,,Andrew Novak,1,"$23,679",Travelers Championship
+46,T26,Andrew Putnam,1,"$23,679",Travelers Championship
+47,,Matt Wallace,1,"$23,679",Travelers Championship
+48,,Paul Barjon,1,"$20,003",Travelers Championship
+49,,Stewart Cink,1,"$20,003",Travelers Championship
+50,,Matthias Schwab,1,"$20,003",Travelers Championship
+51,,Jonas Blixt,1,"$19,007",Travelers Championship
+52,T30,Joseph Bramlett,1,"$19,007",Travelers Championship
+53,,Cam Davis,1,"$19,007",Travelers Championship
+54,,Luke Donald,1,"$19,007",Travelers Championship
+55,,Kelly Kraft,1,"$19,007",Travelers Championship
+56,,Hank Lebioda,1,"$19,007",Travelers Championship
+57,,Taylor Moore,1,"$19,007",Travelers Championship
+58,,Austin Cook,1,"$18,343",Travelers Championship
+59,,Patton Kizzire,1,"$18,011",Travelers Championship
+60,,Peter Malnati,1,"$18,011",Travelers Championship
+61,T26,Davis Riley,1,"$18,011",Travelers Championship
+62,,Kevin Tway,1,"$17,679",Travelers Championship
+63,,Morgan Hoffmann,1,"$17,513",Travelers Championship
+64,T10,Joel Dahmen,1,"$17,347",Travelers Championship
+65,,Lucas Glover,1,"$17,098",Travelers Championship
+66,,Harry Higgs,1,"$17,098",Travelers Championship
+0,,Max Homa,1,"$1,620,000",Wells Fargo Championship
+1,,Keegan Bradley,1,"$681,000",Wells Fargo Championship
+2,,Matt Fitzpatrick,1,"$681,000",Wells Fargo Championship
+3,,Cameron Young,1,"$681,000",Wells Fargo Championship
+4,,Rory McIlroy,1,"$369,000",Wells Fargo Championship
+5,T15,Lanto Griffin,1,"$303,750",Wells Fargo Championship
+6,T15,Stephan Jaeger,1,"$303,750",Wells Fargo Championship
+7,T15,Anirban Lahiri,1,"$303,750",Wells Fargo Championship
+8,,Stewart Cink,1,"$218,250",Wells Fargo Championship
+9,,James Hahn,1,"$218,250",Wells Fargo Championship
+10,,Brian Harman,1,"$218,250",Wells Fargo Championship
+11,,Mackenzie Hughes,1,"$218,250",Wells Fargo Championship
+12,,J.T. Poston,1,"$218,250",Wells Fargo Championship
+13,,Adam Schenk,1,"$218,250",Wells Fargo Championship
+14,,Jason Day,1,"$141,750",Wells Fargo Championship
+15,T2,Kurt Kitayama,1,"$141,750",Wells Fargo Championship
+16,T29,C.T. Pan,1,"$141,750",Wells Fargo Championship
+17,T13,Chez Reavie,1,"$141,750",Wells Fargo Championship
+18,,Nick Taylor,1,"$141,750",Wells Fargo Championship
+19,,Jhonattan Vegas,1,"$141,750",Wells Fargo Championship
+20,,Corey Conners,1,"$98,100",Wells Fargo Championship
+21,,Rickie Fowler,1,"$98,100",Wells Fargo Championship
+22,,Sergio Garcia,1,"$98,100",Wells Fargo Championship
+23,,Chad Ramey,1,"$98,100",Wells Fargo Championship
+24,,Ryan Armour,1,"$69,150",Wells Fargo Championship
+25,,Luke Donald,1,"$69,150",Wells Fargo Championship
+26,,K.H. Lee,1,"$69,150",Wells Fargo Championship
+27,,Denny McCarthy,1,"$69,150",Wells Fargo Championship
+28,T65,Austin Smotherman,1,"$69,150",Wells Fargo Championship
+29,,Matthew Wolff,1,"$69,150",Wells Fargo Championship
+30,,Luke List,1,"$55,013",Wells Fargo Championship
+31,T62,Justin Lower,1,"$55,013",Wells Fargo Championship
+32,,Matthew NeSmith,1,"$55,013",Wells Fargo Championship
+33,,Russell Knox,1,"$47,925",Wells Fargo Championship
+34,,Troy Merritt,1,"$47,925",Wells Fargo Championship
+35,T24,Michael Gligic,1,"$41,850",Wells Fargo Championship
+36,,Tyrrell Hatton,1,"$41,850",Wells Fargo Championship
+37,,Si Woo Kim,1,"$41,850",Wells Fargo Championship
+38,T33,Scott Piercy,1,"$41,850",Wells Fargo Championship
+39,T2,Tony Finau,1,"$33,750",Wells Fargo Championship
+40,,Russell Henley,1,"$33,750",Wells Fargo Championship
+41,T29,Hank Lebioda,1,"$33,750",Wells Fargo Championship
+42,,Rory Sabbatini,1,"$33,750",Wells Fargo Championship
+43,,Dawie van der Walt,1,"$33,750",Wells Fargo Championship
+44,,Dylan Frittelli,1,"$26,670",Wells Fargo Championship
+45,,David Lingmerth,1,"$26,670",Wells Fargo Championship
+46,,Chase Seiffert,1,"$26,670",Wells Fargo Championship
+47,T15,Kelly Kraft,1,"$23,490",Wells Fargo Championship
+48,,Matt Kuchar,1,"$23,490",Wells Fargo Championship
+49,,Paul Barjon,1,"$21,762",Wells Fargo Championship
+50,,Joel Dahmen,1,"$21,762",Wells Fargo Championship
+51,T15,Peter Malnati,1,"$21,762",Wells Fargo Championship
+52,,Ben Martin,1,"$21,762",Wells Fargo Championship
+53,,Brendan Steele,1,"$21,762",Wells Fargo Championship
+54,T42,Abraham Ancer,1,"$20,790",Wells Fargo Championship
+55,T59,Callum Tarren,1,"$20,790",Wells Fargo Championship
+56,,Camilo Villegas,1,"$20,790",Wells Fargo Championship
+57,T42,Ben Kohles,1,"$20,340",Wells Fargo Championship
+58,,Henrik Norlander,1,"$20,340",Wells Fargo Championship
+59,,Martin Laird,1,"$20,070",Wells Fargo Championship
+60,,Kevin Chappell,1,"$19,800",Wells Fargo Championship
+61,,Dylan Wu,1,"$19,800",Wells Fargo Championship
+62,,Taylor Moore,1,"$19,440",Wells Fargo Championship
+63,,Michael Thompson,1,"$19,440",Wells Fargo Championship

@@ -1,394 +1,476 @@
-RANK THIS WEEK,RANK LAST WEEK,PLAYER NAME,ROUNDS,%,# SAVES,# BUNKERS,TOTAL O/U PAR,YEAR
-1,1,Brooks Koepka,66.0,65.38,51.0,78.0,7.0,2021.0
-2,2,Xander Schauffele,83.0,64.71,66.0,102.0,13.0,2021.0
-3,3,Cameron Smith,89.0,63.19,91.0,144.0,39.0,2021.0
-T4,T4,K.J. Choi,54.0,61.9,52.0,84.0,17.0,2021.0
-T4,T4,Ben Taylor,56.0,61.9,39.0,63.0,13.0,2021.0
-6,11,Patrick Reed,81.0,61.7,87.0,141.0,38.0,2021.0
-7,6,Webb Simpson,77.0,61.68,66.0,107.0,9.0,2021.0
-8,7,Ian Poulter,76.0,61.6,77.0,125.0,28.0,2021.0
-9,8,Wyndham Clark,84.0,61.42,78.0,127.0,25.0,2021.0
-10,9,Matt Kuchar,75.0,60.55,66.0,109.0,21.0,2021.0
-11,10,Marc Leishman,83.0,60.0,69.0,115.0,26.0,2021.0
-12,12,Kevin Na,90.0,59.6,90.0,151.0,40.0,2021.0
-13,27,Patrick Cantlay,85.0,59.41,60.0,101.0,11.0,2021.0
-14,13,Russell Henley,87.0,59.29,67.0,113.0,18.0,2021.0
-15,14,Camilo Villegas,81.0,59.22,61.0,103.0,25.0,2021.0
-16,22,Louis Oosthuizen,81.0,59.09,65.0,110.0,18.0,2021.0
-17,15,Brian Harman,105.0,59.06,88.0,149.0,32.0,2021.0
-18,16,Zach Johnson,84.0,58.96,79.0,134.0,38.0,2021.0
-19,17,Tyrrell Hatton,63.0,58.73,37.0,63.0,14.0,2021.0
-20,18,Scott Brown,84.0,58.68,71.0,121.0,33.0,2021.0
-21,19,Rory Sabbatini,75.0,58.62,68.0,116.0,36.0,2021.0
-22,21,Byeong Hun An,86.0,58.06,72.0,124.0,25.0,2021.0
-23,23,Denny McCarthy,94.0,57.82,85.0,147.0,41.0,2021.0
-24,24,Brandon Hagy,82.0,57.81,74.0,128.0,29.0,2021.0
-25,25,Cameron Tringale,94.0,57.55,80.0,139.0,29.0,2021.0
-26,28,Brice Garnett,100.0,57.03,73.0,128.0,32.0,2021.0
-27,29,Brendan Steele,82.0,57.01,61.0,107.0,23.0,2021.0
-28,20,Stewart Cink,90.0,56.9,66.0,116.0,24.0,2021.0
-29,30,Andrew Putnam,95.0,56.82,75.0,132.0,30.0,2021.0
-30,31,Alex Noren,86.0,56.8,71.0,125.0,40.0,2021.0
-31,32,Danny Lee,61.0,56.57,56.0,99.0,23.0,2021.0
-32,33,Doc Redman,84.0,56.44,57.0,101.0,22.0,2021.0
-33,35,Chris Kirk,90.0,56.2,77.0,137.0,34.0,2021.0
-34,T37,Justin Thomas,87.0,56.06,74.0,132.0,37.0,2021.0
-35,26,Jordan Spieth,92.0,55.93,66.0,118.0,24.0,2021.0
-36,36,Pat Perez,104.0,55.64,74.0,133.0,35.0,2021.0
-T37,40,Dustin Johnson,75.0,55.56,50.0,90.0,26.0,2021.0
-T37,57,Jon Rahm,86.0,55.56,60.0,108.0,13.0,2021.0
-T37,T37,Brendon Todd,93.0,55.56,75.0,135.0,48.0,2021.0
-40,39,Vaughn Taylor,81.0,55.45,56.0,101.0,39.0,2021.0
-41,41,Mark Hubbard,102.0,55.41,87.0,157.0,52.0,2021.0
-42,45,Tony Finau,97.0,55.3,73.0,132.0,28.0,2021.0
-43,42,Roger Sloan,88.0,55.26,63.0,114.0,32.0,2021.0
-44,34,Daniel Berger,87.0,54.92,67.0,122.0,23.0,2021.0
-45,44,Adam Hadwin,90.0,54.81,74.0,135.0,43.0,2021.0
-46,46,Jason Dufner,88.0,54.62,65.0,119.0,42.0,2021.0
-T47,T47,Bill Haas,50.0,54.55,42.0,77.0,19.0,2021.0
-T47,T47,John Huh,62.0,54.55,48.0,88.0,33.0,2021.0
-49,49,Nate Lashley,78.0,54.31,63.0,116.0,30.0,2021.0
-50,50,Sebastián Muñoz,105.0,54.3,82.0,151.0,31.0,2021.0
-51,51,Maverick McNealy,84.0,54.21,58.0,107.0,23.0,2021.0
-52,52,K.H. Lee,110.0,54.02,94.0,174.0,45.0,2021.0
-53,T53,Erik van Rooyen,85.0,54.0,54.0,100.0,38.0,2021.0
-54,56,Collin Morikawa,83.0,53.93,48.0,89.0,16.0,2021.0
-55,T53,Nick Taylor,94.0,53.85,63.0,117.0,30.0,2021.0
-56,55,Kramer Hickok,71.0,53.78,64.0,119.0,44.0,2021.0
-57,58,Troy Merritt,104.0,53.33,88.0,165.0,55.0,2021.0
-58,59,Hank Lebioda,74.0,53.26,49.0,92.0,31.0,2021.0
-59,T60,Peter Malnati,84.0,53.23,66.0,124.0,40.0,2021.0
-60,T62,Talor Gooch,97.0,53.13,68.0,128.0,23.0,2021.0
-61,64,Hunter Mahan,59.0,53.1,60.0,113.0,40.0,2021.0
-62,65,Tom Lewis,88.0,53.04,61.0,115.0,25.0,2021.0
-63,66,Rory McIlroy,77.0,52.99,71.0,134.0,28.0,2021.0
-64,T82,Harris English,95.0,52.94,63.0,119.0,28.0,2021.0
-65,67,Scott Harrington,85.0,52.85,65.0,123.0,39.0,2021.0
-66,68,Matt Jones,104.0,52.83,84.0,159.0,36.0,2021.0
-67,69,J.T. Poston,87.0,52.8,85.0,161.0,53.0,2021.0
-68,70,Robby Shelton,86.0,52.78,76.0,144.0,40.0,2021.0
-69,71,Aaron Baddeley,60.0,52.63,40.0,76.0,30.0,2021.0
-70,72,Robert Streb,84.0,52.55,72.0,137.0,49.0,2021.0
-T71,T73,Tommy Fleetwood,65.0,52.5,42.0,80.0,27.0,2021.0
-T71,T73,C.T. Pan,82.0,52.5,63.0,120.0,31.0,2021.0
-73,75,Harold Varner III,96.0,52.42,65.0,124.0,36.0,2021.0
-74,T76,Max Homa,93.0,52.38,66.0,126.0,41.0,2021.0
-75,T76,Jason Kokrak,95.0,52.17,60.0,115.0,37.0,2021.0
-76,80,Brian Gay,72.0,51.92,54.0,104.0,44.0,2021.0
-77,81,Danny Willett,51.0,51.9,41.0,79.0,28.0,2021.0
-78,T82,D.J. Trahan,70.0,51.89,55.0,106.0,30.0,2021.0
-T79,98,Billy Horschel,97.0,51.88,69.0,133.0,42.0,2021.0
-T79,84,Adam Schenk,110.0,51.88,69.0,133.0,50.0,2021.0
-81,85,Jimmy Walker,74.0,51.85,70.0,135.0,49.0,2021.0
-82,86,Russell Knox,96.0,51.82,57.0,110.0,37.0,2021.0
-83,87,Lucas Glover,98.0,51.8,72.0,139.0,39.0,2021.0
-84,88,Scott Piercy,85.0,51.79,58.0,112.0,30.0,2021.0
-85,116,Sam Burns,88.0,51.77,73.0,141.0,43.0,2021.0
-86,89,Chesson Hadley,78.0,51.72,45.0,87.0,26.0,2021.0
-87,91,Anirban Lahiri,68.0,51.52,51.0,99.0,37.0,2021.0
-88,T62,Sungjae Im,127.0,51.5,86.0,167.0,42.0,2021.0
-89,92,Ryan Armour,80.0,51.14,45.0,88.0,28.0,2021.0
-90,93,James Hahn,72.0,51.11,46.0,90.0,22.0,2021.0
-T91,79,Viktor Hovland,90.0,50.96,53.0,104.0,20.0,2021.0
-T91,T76,Joaquin Niemann,105.0,50.96,80.0,157.0,25.0,2021.0
-93,94,Dylan Frittelli,78.0,50.93,55.0,108.0,36.0,2021.0
-T94,T95,Doug Ghim,90.0,50.91,56.0,110.0,37.0,2021.0
-T94,T95,Hudson Swafford,82.0,50.91,56.0,110.0,39.0,2021.0
-96,97,Sean O'Hair,55.0,50.82,31.0,61.0,23.0,2021.0
-97,T106,Abraham Ancer,101.0,50.77,66.0,130.0,48.0,2021.0
-98,99,Vince Whaley,88.0,50.76,67.0,132.0,32.0,2021.0
-99,100,Harry Higgs,82.0,50.74,69.0,136.0,46.0,2021.0
-100,101,Charl Schwartzel,90.0,50.71,71.0,140.0,30.0,2021.0
-101,102,Patton Kizzire,102.0,50.68,74.0,146.0,53.0,2021.0
-102,104,Michael Thompson,80.0,50.44,57.0,113.0,29.0,2021.0
-103,105,Jhonattan Vegas,90.0,50.4,63.0,125.0,35.0,2021.0
-T104,T106,Keegan Bradley,90.0,50.0,53.0,106.0,21.0,2021.0
-T104,T106,Matt Fitzpatrick,69.0,50.0,50.0,100.0,23.0,2021.0
-T104,T106,Fabián Gómez,60.0,50.0,40.0,80.0,22.0,2021.0
-T104,T106,Bo Hoag,93.0,50.0,66.0,132.0,44.0,2021.0
-T104,T106,Beau Hossler,92.0,50.0,72.0,144.0,46.0,2021.0
-T104,T106,Ryan Palmer,81.0,50.0,57.0,114.0,22.0,2021.0
-T104,T106,Cameron Percy,85.0,50.0,43.0,86.0,16.0,2021.0
-T104,T106,Seamus Power,58.0,50.0,37.0,74.0,11.0,2021.0
-T104,T106,Martin Trainer,63.0,50.0,49.0,98.0,41.0,2021.0
-113,132,Sergio Garcia,79.0,49.56,56.0,113.0,19.0,2021.0
-114,117,Michael Gligic,88.0,49.53,53.0,107.0,33.0,2021.0
-115,118,Gary Woodland,74.0,49.48,48.0,97.0,36.0,2021.0
-116,119,Michael Kim,75.0,49.46,46.0,93.0,34.0,2021.0
-117,120,Kevin Tway,68.0,49.33,37.0,75.0,27.0,2021.0
-118,121,Tyler Duncan,98.0,49.19,61.0,124.0,49.0,2021.0
-119,103,Bryson DeChambeau,83.0,49.07,53.0,108.0,25.0,2021.0
-120,122,Aaron Wise,82.0,49.06,52.0,106.0,31.0,2021.0
-121,123,Cam Davis,94.0,49.01,74.0,151.0,49.0,2021.0
-122,124,Charles Howell III,70.0,48.76,59.0,121.0,31.0,2021.0
-123,125,Kevin Kisner,83.0,48.7,56.0,115.0,46.0,2021.0
-124,126,Will Gordon,92.0,48.53,66.0,136.0,38.0,2021.0
-125,152,Hideki Matsuyama,96.0,48.51,65.0,134.0,37.0,2021.0
-126,128,Sung Kang,90.0,48.37,74.0,153.0,70.0,2021.0
-127,129,Adam Long,87.0,48.28,56.0,116.0,39.0,2021.0
-128,130,Will Zalatoris,90.0,48.15,52.0,108.0,21.0,2021.0
-129,131,Sepp Straka,100.0,48.13,77.0,160.0,43.0,2021.0
-130,133,Justin Rose,58.0,48.05,37.0,77.0,31.0,2021.0
-T131,134,Shane Lowry,79.0,48.0,48.0,100.0,37.0,2021.0
-T131,T159,Scottie Scheffler,109.0,48.0,72.0,150.0,41.0,2021.0
-133,135,Rob Oppenheim,80.0,47.96,47.0,98.0,43.0,2021.0
-134,136,Matthew NeSmith,90.0,47.9,57.0,119.0,36.0,2021.0
-135,137,Ryan Brehm,62.0,47.89,34.0,71.0,17.0,2021.0
-136,138,Bronson Burgoon,76.0,47.83,55.0,115.0,28.0,2021.0
-137,139,Luke List,91.0,47.77,75.0,157.0,33.0,2021.0
-138,140,Joel Dahmen,88.0,47.75,53.0,111.0,44.0,2021.0
-139,141,Phil Mickelson,74.0,47.74,74.0,155.0,59.0,2021.0
-140,142,Matt Wallace,60.0,47.42,46.0,97.0,36.0,2021.0
-141,143,Tom Hoge,100.0,47.4,73.0,154.0,57.0,2021.0
-142,144,Charley Hoffman,103.0,47.26,69.0,146.0,47.0,2021.0
-143,145,Rafa Cabrera Bello,76.0,47.24,60.0,127.0,49.0,2021.0
-144,146,Paul Casey,75.0,47.19,42.0,89.0,25.0,2021.0
-145,147,Josh Teater,54.0,47.17,25.0,53.0,17.0,2021.0
-146,148,Sebastian Cappelen,60.0,47.13,41.0,87.0,38.0,2021.0
-147,149,Lanto Griffin,95.0,46.9,68.0,145.0,50.0,2021.0
-148,150,Branden Grace,87.0,46.77,58.0,124.0,40.0,2021.0
-149,151,J.B. Holmes,50.0,46.75,36.0,77.0,23.0,2021.0
-150,127,Corey Conners,107.0,46.67,63.0,135.0,49.0,2021.0
-151,153,Martin Laird,82.0,46.59,41.0,88.0,28.0,2021.0
-152,154,Matthew Wolff,60.0,46.58,34.0,73.0,34.0,2021.0
-T153,T155,Si Woo Kim,97.0,46.53,67.0,144.0,44.0,2021.0
-T153,T155,Satoshi Kodaira,80.0,46.53,47.0,101.0,34.0,2021.0
-155,157,Luke Donald,58.0,46.48,33.0,71.0,31.0,2021.0
-156,158,Emiliano Grillo,100.0,46.43,52.0,112.0,24.0,2021.0
-157,T159,Jason Day,68.0,46.32,44.0,95.0,33.0,2021.0
-158,161,Brian Stuard,108.0,46.31,69.0,149.0,74.0,2021.0
-159,162,Scott Stallings,84.0,46.3,50.0,108.0,38.0,2021.0
-160,164,Lee Westwood,65.0,45.92,45.0,98.0,37.0,2021.0
-161,165,Mark Anderson,62.0,45.76,27.0,59.0,24.0,2021.0
-162,166,Rafael Campos,64.0,45.56,41.0,90.0,33.0,2021.0
-163,167,Chez Reavie,90.0,45.54,51.0,112.0,45.0,2021.0
-T164,T168,Jim Herman,66.0,45.45,40.0,88.0,36.0,2021.0
-T164,T168,Ben Martin,54.0,45.45,30.0,66.0,22.0,2021.0
-T164,T168,Brandt Snedeker,90.0,45.45,65.0,143.0,64.0,2021.0
-T164,T168,Richy Werenski,94.0,45.45,55.0,121.0,50.0,2021.0
-168,172,J.J. Spaun,76.0,45.26,43.0,95.0,36.0,2021.0
-169,173,Xinjun Zhang,72.0,45.19,47.0,104.0,45.0,2021.0
-170,174,Keith Mitchell,88.0,44.9,66.0,147.0,62.0,2021.0
-171,175,Rhein Gibson,62.0,44.87,35.0,78.0,36.0,2021.0
-172,176,Tyler McCumber,70.0,44.76,47.0,105.0,37.0,2021.0
-173,177,Austin Cook,78.0,44.64,50.0,112.0,43.0,2021.0
-174,178,Henrik Norlander,88.0,44.54,53.0,119.0,50.0,2021.0
-175,179,David Hearn,68.0,44.3,35.0,79.0,42.0,2021.0
-176,180,Kyle Stanley,96.0,44.26,54.0,122.0,48.0,2021.0
-177,181,Kevin Streelman,102.0,43.94,58.0,132.0,44.0,2021.0
-178,182,Mackenzie Hughes,94.0,43.84,64.0,146.0,62.0,2021.0
-179,183,Carlos Ortiz,95.0,43.41,56.0,129.0,52.0,2021.0
-180,184,Rickie Fowler,78.0,43.12,47.0,109.0,44.0,2021.0
-181,185,Patrick Rodgers,106.0,42.75,56.0,131.0,43.0,2021.0
-182,186,Adam Scott,72.0,42.48,48.0,113.0,51.0,2021.0
-183,187,Kris Ventura,78.0,42.34,47.0,111.0,47.0,2021.0
-184,188,"Ted Potter, Jr.",68.0,41.24,40.0,97.0,46.0,2021.0
-185,189,Grayson Murray,53.0,40.51,32.0,79.0,30.0,2021.0
-186,190,Bubba Watson,77.0,39.78,37.0,93.0,33.0,2021.0
-187,191,Bo Van Pelt,78.0,39.6,40.0,101.0,51.0,2021.0
-188,192,Andrew Landry,72.0,38.55,32.0,83.0,37.0,2021.0
-189,193,Chase Seiffert,84.0,37.96,41.0,108.0,51.0,2021.0
-190,194,Michael Gellerman,51.0,37.93,22.0,58.0,22.0,2021.0
-191,195,Sam Ryder,94.0,37.39,43.0,115.0,44.0,2021.0
-192,196,Joseph Bramlett,84.0,36.79,39.0,106.0,53.0,2021.0
-193,197,Nelson Ledesma,54.0,36.23,25.0,69.0,28.0,2021.0
-194,198,Chris Baker,62.0,32.86,23.0,70.0,37.0,2021.0
-195,199,Nick Watney,62.0,32.43,24.0,74.0,41.0,2021.0
-196,200,Cameron Champ,79.0,29.06,34.0,117.0,63.0,2021.0
-1,1,Brooks Koepka,66.0,65.38,51.0,78.0,7.0,2021.0
-2,2,Xander Schauffele,83.0,64.71,66.0,102.0,13.0,2021.0
-3,3,Cameron Smith,89.0,63.19,91.0,144.0,39.0,2021.0
-T4,T4,K.J. Choi,54.0,61.9,52.0,84.0,17.0,2021.0
-T4,T4,Ben Taylor,56.0,61.9,39.0,63.0,13.0,2021.0
-6,11,Patrick Reed,81.0,61.7,87.0,141.0,38.0,2021.0
-7,6,Webb Simpson,77.0,61.68,66.0,107.0,9.0,2021.0
-8,7,Ian Poulter,76.0,61.6,77.0,125.0,28.0,2021.0
-9,8,Wyndham Clark,84.0,61.42,78.0,127.0,25.0,2021.0
-10,9,Matt Kuchar,75.0,60.55,66.0,109.0,21.0,2021.0
-11,10,Marc Leishman,83.0,60.0,69.0,115.0,26.0,2021.0
-12,12,Kevin Na,90.0,59.6,90.0,151.0,40.0,2021.0
-13,27,Patrick Cantlay,85.0,59.41,60.0,101.0,11.0,2021.0
-14,13,Russell Henley,87.0,59.29,67.0,113.0,18.0,2021.0
-15,14,Camilo Villegas,81.0,59.22,61.0,103.0,25.0,2021.0
-16,22,Louis Oosthuizen,81.0,59.09,65.0,110.0,18.0,2021.0
-17,15,Brian Harman,105.0,59.06,88.0,149.0,32.0,2021.0
-18,16,Zach Johnson,84.0,58.96,79.0,134.0,38.0,2021.0
-19,17,Tyrrell Hatton,63.0,58.73,37.0,63.0,14.0,2021.0
-20,18,Scott Brown,84.0,58.68,71.0,121.0,33.0,2021.0
-21,19,Rory Sabbatini,75.0,58.62,68.0,116.0,36.0,2021.0
-22,21,Byeong Hun An,86.0,58.06,72.0,124.0,25.0,2021.0
-23,23,Denny McCarthy,94.0,57.82,85.0,147.0,41.0,2021.0
-24,24,Brandon Hagy,82.0,57.81,74.0,128.0,29.0,2021.0
-25,25,Cameron Tringale,94.0,57.55,80.0,139.0,29.0,2021.0
-26,28,Brice Garnett,100.0,57.03,73.0,128.0,32.0,2021.0
-27,29,Brendan Steele,82.0,57.01,61.0,107.0,23.0,2021.0
-28,20,Stewart Cink,90.0,56.9,66.0,116.0,24.0,2021.0
-29,30,Andrew Putnam,95.0,56.82,75.0,132.0,30.0,2021.0
-30,31,Alex Noren,86.0,56.8,71.0,125.0,40.0,2021.0
-31,32,Danny Lee,61.0,56.57,56.0,99.0,23.0,2021.0
-32,33,Doc Redman,84.0,56.44,57.0,101.0,22.0,2021.0
-33,35,Chris Kirk,90.0,56.2,77.0,137.0,34.0,2021.0
-34,T37,Justin Thomas,87.0,56.06,74.0,132.0,37.0,2021.0
-35,26,Jordan Spieth,92.0,55.93,66.0,118.0,24.0,2021.0
-36,36,Pat Perez,104.0,55.64,74.0,133.0,35.0,2021.0
-T37,40,Dustin Johnson,75.0,55.56,50.0,90.0,26.0,2021.0
-T37,57,Jon Rahm,86.0,55.56,60.0,108.0,13.0,2021.0
-T37,T37,Brendon Todd,93.0,55.56,75.0,135.0,48.0,2021.0
-40,39,Vaughn Taylor,81.0,55.45,56.0,101.0,39.0,2021.0
-41,41,Mark Hubbard,102.0,55.41,87.0,157.0,52.0,2021.0
-42,45,Tony Finau,97.0,55.3,73.0,132.0,28.0,2021.0
-43,42,Roger Sloan,88.0,55.26,63.0,114.0,32.0,2021.0
-44,34,Daniel Berger,87.0,54.92,67.0,122.0,23.0,2021.0
-45,44,Adam Hadwin,90.0,54.81,74.0,135.0,43.0,2021.0
-46,46,Jason Dufner,88.0,54.62,65.0,119.0,42.0,2021.0
-T47,T47,Bill Haas,50.0,54.55,42.0,77.0,19.0,2021.0
-T47,T47,John Huh,62.0,54.55,48.0,88.0,33.0,2021.0
-49,49,Nate Lashley,78.0,54.31,63.0,116.0,30.0,2021.0
-50,50,Sebastián Muñoz,105.0,54.3,82.0,151.0,31.0,2021.0
-51,51,Maverick McNealy,84.0,54.21,58.0,107.0,23.0,2021.0
-52,52,K.H. Lee,110.0,54.02,94.0,174.0,45.0,2021.0
-53,T53,Erik van Rooyen,85.0,54.0,54.0,100.0,38.0,2021.0
-54,56,Collin Morikawa,83.0,53.93,48.0,89.0,16.0,2021.0
-55,T53,Nick Taylor,94.0,53.85,63.0,117.0,30.0,2021.0
-56,55,Kramer Hickok,71.0,53.78,64.0,119.0,44.0,2021.0
-57,58,Troy Merritt,104.0,53.33,88.0,165.0,55.0,2021.0
-58,59,Hank Lebioda,74.0,53.26,49.0,92.0,31.0,2021.0
-59,T60,Peter Malnati,84.0,53.23,66.0,124.0,40.0,2021.0
-60,T62,Talor Gooch,97.0,53.13,68.0,128.0,23.0,2021.0
-61,64,Hunter Mahan,59.0,53.1,60.0,113.0,40.0,2021.0
-62,65,Tom Lewis,88.0,53.04,61.0,115.0,25.0,2021.0
-63,66,Rory McIlroy,77.0,52.99,71.0,134.0,28.0,2021.0
-64,T82,Harris English,95.0,52.94,63.0,119.0,28.0,2021.0
-65,67,Scott Harrington,85.0,52.85,65.0,123.0,39.0,2021.0
-66,68,Matt Jones,104.0,52.83,84.0,159.0,36.0,2021.0
-67,69,J.T. Poston,87.0,52.8,85.0,161.0,53.0,2021.0
-68,70,Robby Shelton,86.0,52.78,76.0,144.0,40.0,2021.0
-69,71,Aaron Baddeley,60.0,52.63,40.0,76.0,30.0,2021.0
-70,72,Robert Streb,84.0,52.55,72.0,137.0,49.0,2021.0
-T71,T73,Tommy Fleetwood,65.0,52.5,42.0,80.0,27.0,2021.0
-T71,T73,C.T. Pan,82.0,52.5,63.0,120.0,31.0,2021.0
-73,75,Harold Varner III,96.0,52.42,65.0,124.0,36.0,2021.0
-74,T76,Max Homa,93.0,52.38,66.0,126.0,41.0,2021.0
-75,T76,Jason Kokrak,95.0,52.17,60.0,115.0,37.0,2021.0
-76,80,Brian Gay,72.0,51.92,54.0,104.0,44.0,2021.0
-77,81,Danny Willett,51.0,51.9,41.0,79.0,28.0,2021.0
-78,T82,D.J. Trahan,70.0,51.89,55.0,106.0,30.0,2021.0
-T79,98,Billy Horschel,97.0,51.88,69.0,133.0,42.0,2021.0
-T79,84,Adam Schenk,110.0,51.88,69.0,133.0,50.0,2021.0
-81,85,Jimmy Walker,74.0,51.85,70.0,135.0,49.0,2021.0
-82,86,Russell Knox,96.0,51.82,57.0,110.0,37.0,2021.0
-83,87,Lucas Glover,98.0,51.8,72.0,139.0,39.0,2021.0
-84,88,Scott Piercy,85.0,51.79,58.0,112.0,30.0,2021.0
-85,116,Sam Burns,88.0,51.77,73.0,141.0,43.0,2021.0
-86,89,Chesson Hadley,78.0,51.72,45.0,87.0,26.0,2021.0
-87,91,Anirban Lahiri,68.0,51.52,51.0,99.0,37.0,2021.0
-88,T62,Sungjae Im,127.0,51.5,86.0,167.0,42.0,2021.0
-89,92,Ryan Armour,80.0,51.14,45.0,88.0,28.0,2021.0
-90,93,James Hahn,72.0,51.11,46.0,90.0,22.0,2021.0
-T91,79,Viktor Hovland,90.0,50.96,53.0,104.0,20.0,2021.0
-T91,T76,Joaquin Niemann,105.0,50.96,80.0,157.0,25.0,2021.0
-93,94,Dylan Frittelli,78.0,50.93,55.0,108.0,36.0,2021.0
-T94,T95,Doug Ghim,90.0,50.91,56.0,110.0,37.0,2021.0
-T94,T95,Hudson Swafford,82.0,50.91,56.0,110.0,39.0,2021.0
-96,97,Sean O'Hair,55.0,50.82,31.0,61.0,23.0,2021.0
-97,T106,Abraham Ancer,101.0,50.77,66.0,130.0,48.0,2021.0
-98,99,Vince Whaley,88.0,50.76,67.0,132.0,32.0,2021.0
-99,100,Harry Higgs,82.0,50.74,69.0,136.0,46.0,2021.0
-100,101,Charl Schwartzel,90.0,50.71,71.0,140.0,30.0,2021.0
-101,102,Patton Kizzire,102.0,50.68,74.0,146.0,53.0,2021.0
-102,104,Michael Thompson,80.0,50.44,57.0,113.0,29.0,2021.0
-103,105,Jhonattan Vegas,90.0,50.4,63.0,125.0,35.0,2021.0
-T104,T106,Keegan Bradley,90.0,50.0,53.0,106.0,21.0,2021.0
-T104,T106,Matt Fitzpatrick,69.0,50.0,50.0,100.0,23.0,2021.0
-T104,T106,Fabián Gómez,60.0,50.0,40.0,80.0,22.0,2021.0
-T104,T106,Bo Hoag,93.0,50.0,66.0,132.0,44.0,2021.0
-T104,T106,Beau Hossler,92.0,50.0,72.0,144.0,46.0,2021.0
-T104,T106,Ryan Palmer,81.0,50.0,57.0,114.0,22.0,2021.0
-T104,T106,Cameron Percy,85.0,50.0,43.0,86.0,16.0,2021.0
-T104,T106,Seamus Power,58.0,50.0,37.0,74.0,11.0,2021.0
-T104,T106,Martin Trainer,63.0,50.0,49.0,98.0,41.0,2021.0
-113,132,Sergio Garcia,79.0,49.56,56.0,113.0,19.0,2021.0
-114,117,Michael Gligic,88.0,49.53,53.0,107.0,33.0,2021.0
-115,118,Gary Woodland,74.0,49.48,48.0,97.0,36.0,2021.0
-116,119,Michael Kim,75.0,49.46,46.0,93.0,34.0,2021.0
-117,120,Kevin Tway,68.0,49.33,37.0,75.0,27.0,2021.0
-118,121,Tyler Duncan,98.0,49.19,61.0,124.0,49.0,2021.0
-119,103,Bryson DeChambeau,83.0,49.07,53.0,108.0,25.0,2021.0
-120,122,Aaron Wise,82.0,49.06,52.0,106.0,31.0,2021.0
-121,123,Cam Davis,94.0,49.01,74.0,151.0,49.0,2021.0
-122,124,Charles Howell III,70.0,48.76,59.0,121.0,31.0,2021.0
-123,125,Kevin Kisner,83.0,48.7,56.0,115.0,46.0,2021.0
-124,126,Will Gordon,92.0,48.53,66.0,136.0,38.0,2021.0
-125,152,Hideki Matsuyama,96.0,48.51,65.0,134.0,37.0,2021.0
-126,128,Sung Kang,90.0,48.37,74.0,153.0,70.0,2021.0
-127,129,Adam Long,87.0,48.28,56.0,116.0,39.0,2021.0
-128,130,Will Zalatoris,90.0,48.15,52.0,108.0,21.0,2021.0
-129,131,Sepp Straka,100.0,48.13,77.0,160.0,43.0,2021.0
-130,133,Justin Rose,58.0,48.05,37.0,77.0,31.0,2021.0
-T131,134,Shane Lowry,79.0,48.0,48.0,100.0,37.0,2021.0
-T131,T159,Scottie Scheffler,109.0,48.0,72.0,150.0,41.0,2021.0
-133,135,Rob Oppenheim,80.0,47.96,47.0,98.0,43.0,2021.0
-134,136,Matthew NeSmith,90.0,47.9,57.0,119.0,36.0,2021.0
-135,137,Ryan Brehm,62.0,47.89,34.0,71.0,17.0,2021.0
-136,138,Bronson Burgoon,76.0,47.83,55.0,115.0,28.0,2021.0
-137,139,Luke List,91.0,47.77,75.0,157.0,33.0,2021.0
-138,140,Joel Dahmen,88.0,47.75,53.0,111.0,44.0,2021.0
-139,141,Phil Mickelson,74.0,47.74,74.0,155.0,59.0,2021.0
-140,142,Matt Wallace,60.0,47.42,46.0,97.0,36.0,2021.0
-141,143,Tom Hoge,100.0,47.4,73.0,154.0,57.0,2021.0
-142,144,Charley Hoffman,103.0,47.26,69.0,146.0,47.0,2021.0
-143,145,Rafa Cabrera Bello,76.0,47.24,60.0,127.0,49.0,2021.0
-144,146,Paul Casey,75.0,47.19,42.0,89.0,25.0,2021.0
-145,147,Josh Teater,54.0,47.17,25.0,53.0,17.0,2021.0
-146,148,Sebastian Cappelen,60.0,47.13,41.0,87.0,38.0,2021.0
-147,149,Lanto Griffin,95.0,46.9,68.0,145.0,50.0,2021.0
-148,150,Branden Grace,87.0,46.77,58.0,124.0,40.0,2021.0
-149,151,J.B. Holmes,50.0,46.75,36.0,77.0,23.0,2021.0
-150,127,Corey Conners,107.0,46.67,63.0,135.0,49.0,2021.0
-151,153,Martin Laird,82.0,46.59,41.0,88.0,28.0,2021.0
-152,154,Matthew Wolff,60.0,46.58,34.0,73.0,34.0,2021.0
-T153,T155,Si Woo Kim,97.0,46.53,67.0,144.0,44.0,2021.0
-T153,T155,Satoshi Kodaira,80.0,46.53,47.0,101.0,34.0,2021.0
-155,157,Luke Donald,58.0,46.48,33.0,71.0,31.0,2021.0
-156,158,Emiliano Grillo,100.0,46.43,52.0,112.0,24.0,2021.0
-157,T159,Jason Day,68.0,46.32,44.0,95.0,33.0,2021.0
-158,161,Brian Stuard,108.0,46.31,69.0,149.0,74.0,2021.0
-159,162,Scott Stallings,84.0,46.3,50.0,108.0,38.0,2021.0
-160,164,Lee Westwood,65.0,45.92,45.0,98.0,37.0,2021.0
-161,165,Mark Anderson,62.0,45.76,27.0,59.0,24.0,2021.0
-162,166,Rafael Campos,64.0,45.56,41.0,90.0,33.0,2021.0
-163,167,Chez Reavie,90.0,45.54,51.0,112.0,45.0,2021.0
-T164,T168,Jim Herman,66.0,45.45,40.0,88.0,36.0,2021.0
-T164,T168,Ben Martin,54.0,45.45,30.0,66.0,22.0,2021.0
-T164,T168,Brandt Snedeker,90.0,45.45,65.0,143.0,64.0,2021.0
-T164,T168,Richy Werenski,94.0,45.45,55.0,121.0,50.0,2021.0
-168,172,J.J. Spaun,76.0,45.26,43.0,95.0,36.0,2021.0
-169,173,Xinjun Zhang,72.0,45.19,47.0,104.0,45.0,2021.0
-170,174,Keith Mitchell,88.0,44.9,66.0,147.0,62.0,2021.0
-171,175,Rhein Gibson,62.0,44.87,35.0,78.0,36.0,2021.0
-172,176,Tyler McCumber,70.0,44.76,47.0,105.0,37.0,2021.0
-173,177,Austin Cook,78.0,44.64,50.0,112.0,43.0,2021.0
-174,178,Henrik Norlander,88.0,44.54,53.0,119.0,50.0,2021.0
-175,179,David Hearn,68.0,44.3,35.0,79.0,42.0,2021.0
-176,180,Kyle Stanley,96.0,44.26,54.0,122.0,48.0,2021.0
-177,181,Kevin Streelman,102.0,43.94,58.0,132.0,44.0,2021.0
-178,182,Mackenzie Hughes,94.0,43.84,64.0,146.0,62.0,2021.0
-179,183,Carlos Ortiz,95.0,43.41,56.0,129.0,52.0,2021.0
-180,184,Rickie Fowler,78.0,43.12,47.0,109.0,44.0,2021.0
-181,185,Patrick Rodgers,106.0,42.75,56.0,131.0,43.0,2021.0
-182,186,Adam Scott,72.0,42.48,48.0,113.0,51.0,2021.0
-183,187,Kris Ventura,78.0,42.34,47.0,111.0,47.0,2021.0
-184,188,"Ted Potter, Jr.",68.0,41.24,40.0,97.0,46.0,2021.0
-185,189,Grayson Murray,53.0,40.51,32.0,79.0,30.0,2021.0
-186,190,Bubba Watson,77.0,39.78,37.0,93.0,33.0,2021.0
-187,191,Bo Van Pelt,78.0,39.6,40.0,101.0,51.0,2021.0
-188,192,Andrew Landry,72.0,38.55,32.0,83.0,37.0,2021.0
-189,193,Chase Seiffert,84.0,37.96,41.0,108.0,51.0,2021.0
-190,194,Michael Gellerman,51.0,37.93,22.0,58.0,22.0,2021.0
-191,195,Sam Ryder,94.0,37.39,43.0,115.0,44.0,2021.0
-192,196,Joseph Bramlett,84.0,36.79,39.0,106.0,53.0,2021.0
-193,197,Nelson Ledesma,54.0,36.23,25.0,69.0,28.0,2021.0
-194,198,Chris Baker,62.0,32.86,23.0,70.0,37.0,2021.0
-195,199,Nick Watney,62.0,32.43,24.0,74.0,41.0,2021.0
-196,200,Cameron Champ,79.0,29.06,34.0,117.0,63.0,2021.0
-,,,,,,,,
+,RANK LAST WEEK,PLAYER NAME,ROUNDS,%,# SAVES,# BUNKERS,TOTAL O/U PAR,EVENT
+0,,Tommy Fleetwood,4,100.0,5,5,-1.00,The Masters
+1,,Sergio Garcia,4,100.0,5,5,-2.00,The Masters
+2,,Tom Hoge,4,100.0,2,2,-1.00,The Masters
+3,,Justin Thomas,4,88.89,8,9,+1.00,The Masters
+4,T52,Corey Conners,4,83.33,5,6,-1.00,The Masters
+5,,Charl Schwartzel,4,80.0,4,5,E,The Masters
+6,T29,Si Woo Kim,4,77.78,7,9,+1.00,The Masters
+7,,Viktor Hovland,4,75.0,3,4,+1.00,The Masters
+8,,Sungjae Im,4,75.0,6,8,+1.00,The Masters
+9,,Cameron Champ,4,71.43,5,7,+2.00,The Masters
+10,,Harold Varner III,4,71.43,5,7,+3.00,The Masters
+11,,Adam Scott,4,70.0,7,10,+5.00,The Masters
+12,,Harry Higgs,4,66.67,2,3,+1.00,The Masters
+13,,Shane Lowry,4,66.67,6,9,+3.00,The Masters
+14,,Patrick Reed,4,66.67,4,6,+1.00,The Masters
+15,,Danny Willett,4,62.5,5,8,+2.00,The Masters
+16,,Will Zalatoris,4,62.5,5,8,+4.00,The Masters
+17,,Cam Davis,4,60.0,3,5,+3.00,The Masters
+18,,Talor Gooch,4,60.0,6,10,+5.00,The Masters
+19,,Marc Leishman,4,60.0,3,5,-1.00,The Masters
+20,,Rory McIlroy,4,60.0,6,10,+1.00,The Masters
+21,,Tiger Woods,4,60.0,3,5,+1.00,The Masters
+22,,Matt Fitzpatrick,4,57.14,4,7,+3.00,The Masters
+23,T14,Lucas Glover,4,57.14,4,7,+4.00,The Masters
+24,,Russell Henley,4,57.14,4,7,E,The Masters
+25,,Hideki Matsuyama,4,57.14,4,7,+2.00,The Masters
+26,,Sepp Straka,4,57.14,4,7,+3.00,The Masters
+27,,Daniel Berger,4,50.0,2,4,+3.00,The Masters
+28,,Patrick Cantlay,4,50.0,3,6,+1.00,The Masters
+29,,Max Homa,4,50.0,3,6,+5.00,The Masters
+30,,Collin Morikawa,4,50.0,3,6,+1.00,The Masters
+31,,Scottie Scheffler,4,50.0,3,6,+1.00,The Masters
+32,,Cameron Smith,4,50.0,2,4,+2.00,The Masters
+33,T57,Hudson Swafford,4,50.0,3,6,+4.00,The Masters
+34,,Joaquin Niemann,4,45.45,5,11,+7.00,The Masters
+35,,Webb Simpson,4,41.67,5,12,+4.00,The Masters
+36,,Tyrrell Hatton,4,40.0,2,5,+2.00,The Masters
+37,,Bubba Watson,4,37.5,3,8,+5.00,The Masters
+38,,Christiaan Bezuidenhout,4,33.33,2,6,+3.00,The Masters
+39,,Kevin Na,4,33.33,1,3,+2.00,The Masters
+40,,Seamus Power,4,33.33,2,6,+4.00,The Masters
+41,,Billy Horschel,4,28.57,2,7,+4.00,The Masters
+42,,Mackenzie Hughes,4,28.57,2,7,+6.00,The Masters
+43,T29,Robert MacIntyre,4,28.57,2,7,+4.00,The Masters
+44,,Jason Kokrak,4,25.0,1,4,E,The Masters
+45,,Min Woo Lee,4,25.0,1,4,+2.00,The Masters
+46,,Dustin Johnson,4,16.67,1,6,+2.00,The Masters
+47,,Jon Rahm,4,16.67,1,6,+4.00,The Masters
+48,,Lee Westwood,4,14.29,1,7,+5.00,The Masters
+49,,Kevin Kisner,4,12.5,1,8,+9.00,The Masters
+50,T46,Tony Finau,4,0.0,0,3,+3.00,The Masters
+51,T18,J.J. Spaun,4,0.0,0,5,+4.00,The Masters
+0,,Hayden Buckley,4,100.0,1,1,E,U.S. Open
+1,,Joohyung Kim,4,100.0,4,4,E,U.S. Open
+2,T11,Rory McIlroy,4,100.0,5,5,E,U.S. Open
+3,,Andrew Putnam,4,87.5,7,8,E,U.S. Open
+4,,Adam Scott,4,83.33,5,6,+1.00,U.S. Open
+5,,Brian Harman,4,80.0,4,5,+1.00,U.S. Open
+6,,Min Woo Lee,4,80.0,4,5,+3.00,U.S. Open
+7,,Todd Sinnott,4,80.0,8,10,+2.00,U.S. Open
+8,,Denny McCarthy,4,75.0,3,4,+1.00,U.S. Open
+9,T1,Sam Burns,4,71.43,5,7,+1.00,U.S. Open
+10,,Tyrrell Hatton,4,71.43,5,7,+3.00,U.S. Open
+11,,Joel Dahmen,4,66.67,2,3,+1.00,U.S. Open
+12,T21,Nick Hardy,4,66.67,4,6,+1.00,U.S. Open
+13,,Max Homa,4,66.67,4,6,E,U.S. Open
+14,,K.H. Lee,4,66.67,4,6,+1.00,U.S. Open
+15,,Brandon Matthews,4,66.67,4,6,+1.00,U.S. Open
+16,,Thomas Pieters,4,66.67,4,6,+1.00,U.S. Open
+17,,Chris Gotterup,4,62.5,5,8,+2.00,U.S. Open
+18,,Seamus Power,4,62.5,5,8,+3.00,U.S. Open
+19,,Davis Riley,4,62.5,5,8,+3.00,U.S. Open
+20,,Sebastian Soderberg,4,62.5,5,8,+3.00,U.S. Open
+21,,Travis Vick,4,62.5,5,8,+4.00,U.S. Open
+22,,Richard Bland,4,60.0,3,5,+1.00,U.S. Open
+23,,Guido Migliozzi,4,60.0,3,5,-1.00,U.S. Open
+24,T62,Justin Rose,4,60.0,3,5,+1.00,U.S. Open
+25,,Xander Schauffele,4,60.0,3,5,E,U.S. Open
+26,,Will Zalatoris,4,60.0,3,5,+2.00,U.S. Open
+27,,Keegan Bradley,4,57.14,4,7,+2.00,U.S. Open
+28,T21,Adam Hadwin,4,57.14,4,7,+1.00,U.S. Open
+29,T14,Sebastián Muñoz,4,57.14,4,7,E,U.S. Open
+30,,Chris Naegel,4,57.14,4,7,+2.00,U.S. Open
+31,,Joaquin Niemann,4,57.14,4,7,+2.00,U.S. Open
+32,,Sam Stevens,4,57.14,4,7,+1.00,U.S. Open
+33,,Patrick Cantlay,4,54.55,6,11,+6.00,U.S. Open
+34,,Collin Morikawa,4,54.55,6,11,+5.00,U.S. Open
+35,,Wil Besseling,4,50.0,3,6,+1.00,U.S. Open
+36,,Marc Leishman,4,50.0,2,4,+2.00,U.S. Open
+37,,David Lingmerth,4,50.0,5,10,+6.00,U.S. Open
+38,,Matthew NeSmith,4,50.0,3,6,+2.00,U.S. Open
+39,T43,Patrick Rodgers,4,50.0,4,8,+4.00,U.S. Open
+40,T43,Scottie Scheffler,4,50.0,3,6,+1.00,U.S. Open
+41,,Austin Greaser,4,46.15,6,13,+14.00,U.S. Open
+42,,Jordan Spieth,4,46.15,6,13,+1.00,U.S. Open
+43,,Cameron Tringale,4,44.44,4,9,+3.00,U.S. Open
+44,,Matt Fitzpatrick,4,42.86,3,7,+3.00,U.S. Open
+45,,Hideki Matsuyama,4,42.86,3,7,+4.00,U.S. Open
+46,,Callum Tarren,4,42.86,3,7,+4.00,U.S. Open
+47,T21,Justin Thomas,4,42.86,3,7,+2.00,U.S. Open
+48,,MJ Daffue,4,40.0,4,10,+5.00,U.S. Open
+49,,Bryson DeChambeau,4,40.0,2,5,+3.00,U.S. Open
+50,,Stewart Hagestad,4,40.0,2,5,+3.00,U.S. Open
+51,,Jon Rahm,4,40.0,2,5,+3.00,U.S. Open
+52,,Patrick Reed,4,40.0,4,10,+2.00,U.S. Open
+53,,Gary Woodland,4,40.0,2,5,+1.00,U.S. Open
+54,,Grayson Murray,4,37.5,3,8,+6.00,U.S. Open
+55,,Joseph Bramlett,4,33.33,3,9,+5.00,U.S. Open
+56,,Beau Hossler,4,33.33,3,9,+2.00,U.S. Open
+57,T43,Mackenzie Hughes,4,33.33,3,9,+6.00,U.S. Open
+58,,Brooks Koepka,4,33.33,2,6,+4.00,U.S. Open
+59,,Adam Schenk,4,33.33,1,3,+3.00,U.S. Open
+60,,Harris English,4,30.0,3,10,+7.00,U.S. Open
+61,,Aaron Wise,4,25.0,1,4,+2.00,U.S. Open
+62,,Dustin Johnson,4,16.67,1,6,+3.00,U.S. Open
+63,,Sam Bennett,4,0.0,0,4,+4.00,U.S. Open
+0,,Brian Harman,4,88.89,8,9,-2.00,The Memorial Tournament
+1,T21,Denny McCarthy,4,87.5,7,8,-1.00,The Memorial Tournament
+2,T37,Jordan Spieth,4,77.78,7,9,+1.00,The Memorial Tournament
+3,,Patrick Cantlay,4,70.0,7,10,E,The Memorial Tournament
+4,,Billy Horschel,4,66.67,4,6,+1.00,The Memorial Tournament
+5,T21,Sungjae Im,4,66.67,4,6,E,The Memorial Tournament
+6,,Shane Lowry,4,66.67,4,6,+1.00,The Memorial Tournament
+7,T49,Matthew NeSmith,4,66.67,4,6,+2.00,The Memorial Tournament
+8,,Jhonattan Vegas,4,66.67,8,12,E,The Memorial Tournament
+9,,Charles Howell III,4,63.64,7,11,+2.00,The Memorial Tournament
+10,67,C.T. Pan,4,63.64,7,11,+1.00,The Memorial Tournament
+11,T28,Aaron Rai,4,61.54,8,13,+2.00,The Memorial Tournament
+12,T44,Joel Dahmen,4,60.0,6,10,+5.00,The Memorial Tournament
+13,,Keith Mitchell,4,60.0,6,10,+4.00,The Memorial Tournament
+14,,Cameron Tringale,4,60.0,6,10,+2.00,The Memorial Tournament
+15,48,Daniel Berger,4,58.33,7,12,+3.00,The Memorial Tournament
+16,,Adam Hadwin,4,57.14,4,7,+2.00,The Memorial Tournament
+17,5,Max Homa,4,57.14,4,7,+4.00,The Memorial Tournament
+18,,Mackenzie Hughes,4,57.14,4,7,+3.00,The Memorial Tournament
+19,19,Patrick Reed,4,57.14,4,7,+3.00,The Memorial Tournament
+20,,Adam Schenk,4,57.14,4,7,+1.00,The Memorial Tournament
+21,,Wyndham Clark,4,55.56,5,9,+4.00,The Memorial Tournament
+22,T37,Beau Hossler,4,55.56,5,9,+5.00,The Memorial Tournament
+23,,Si Woo Kim,4,55.56,5,9,+2.00,The Memorial Tournament
+24,T68,Sahith Theegala,4,55.56,5,9,+1.00,The Memorial Tournament
+25,,Keegan Bradley,4,54.55,6,11,+5.00,The Memorial Tournament
+26,,Martin Laird,4,54.55,6,11,+3.00,The Memorial Tournament
+27,,Luke List,4,54.55,6,11,+3.00,The Memorial Tournament
+28,,Rory McIlroy,4,54.55,6,11,+3.00,The Memorial Tournament
+29,T15,David Lipsky,4,53.85,7,13,+5.00,The Memorial Tournament
+30,,Sepp Straka,4,53.85,7,13,+2.00,The Memorial Tournament
+31,,Camilo Villegas,4,53.85,7,13,+6.00,The Memorial Tournament
+32,,Matt Kuchar,4,53.33,8,15,+3.00,The Memorial Tournament
+33,,J.T. Poston,4,53.33,8,15,+7.00,The Memorial Tournament
+34,,Abraham Ancer,4,50.0,4,8,+3.00,The Memorial Tournament
+35,T61,Emiliano Grillo,4,50.0,5,10,+3.00,The Memorial Tournament
+36,,Chan Kim,4,50.0,5,10,+6.00,The Memorial Tournament
+37,,Xander Schauffele,4,50.0,5,10,+6.00,The Memorial Tournament
+38,,Cameron Young,4,50.0,4,8,+2.00,The Memorial Tournament
+39,T8,Viktor Hovland,4,45.45,5,11,+5.00,The Memorial Tournament
+40,,David Lingmerth,4,44.44,4,9,+5.00,The Memorial Tournament
+41,,Cameron Smith,4,44.44,4,9,+4.00,The Memorial Tournament
+42,,Aaron Wise,4,42.86,3,7,+4.00,The Memorial Tournament
+43,,Doug Ghim,4,41.67,5,12,+5.00,The Memorial Tournament
+44,,Corey Conners,4,40.0,2,5,+2.00,The Memorial Tournament
+45,,Lanto Griffin,4,40.0,4,10,+10.00,The Memorial Tournament
+46,T39,Davis Riley,4,40.0,4,10,+3.00,The Memorial Tournament
+47,T44,Rickie Fowler,4,37.5,3,8,+6.00,The Memorial Tournament
+48,T15,Chris Kirk,4,37.5,3,8,+5.00,The Memorial Tournament
+49,T6,Troy Merritt,4,37.5,3,8,+4.00,The Memorial Tournament
+50,T35,Cam Davis,4,36.36,4,11,+7.00,The Memorial Tournament
+51,,Jason Day,4,36.36,4,11,+5.00,The Memorial Tournament
+52,,Carlos Ortiz,4,36.36,4,11,+6.00,The Memorial Tournament
+53,T30,Lucas Herbert,4,33.33,1,3,+2.00,The Memorial Tournament
+54,,Kramer Hickok,4,33.33,2,6,+4.00,The Memorial Tournament
+55,,K.H. Lee,4,33.33,6,18,+11.00,The Memorial Tournament
+56,,Ryan Moore,4,33.33,4,12,+7.00,The Memorial Tournament
+57,,Joaquin Niemann,4,33.33,2,6,+5.00,The Memorial Tournament
+58,T39,Pat Perez,4,33.33,2,6,+2.00,The Memorial Tournament
+59,T21,Brandt Snedeker,4,33.33,5,15,+8.00,The Memorial Tournament
+60,,Will Zalatoris,4,33.33,2,6,+5.00,The Memorial Tournament
+61,,Brandon Wu,4,30.77,4,13,+9.00,The Memorial Tournament
+62,,Francesco Molinari,4,28.57,2,7,+5.00,The Memorial Tournament
+63,T49,Adam Svensson,4,28.57,2,7,+4.00,The Memorial Tournament
+64,,Brendan Steele,4,27.27,3,11,+7.00,The Memorial Tournament
+65,3,Mito Pereira,4,25.0,3,12,+8.00,The Memorial Tournament
+66,,Jon Rahm,4,25.0,1,4,+5.00,The Memorial Tournament
+67,T64,Lucas Glover,4,22.22,2,9,+3.00,The Memorial Tournament
+68,,Garrick Higgo,4,16.67,1,6,+4.00,The Memorial Tournament
+69,,Adam Scott,4,16.67,1,6,+4.00,The Memorial Tournament
+0,,Ryan Armour,4,100.0,2,2,E,RBC Canadian Open
+1,,Sam Burns,4,100.0,1,1,E,RBC Canadian Open
+2,T48,Chris Kirk,4,100.0,2,2,E,RBC Canadian Open
+3,T5,Shane Lowry,4,100.0,2,2,+1.00,RBC Canadian Open
+4,,Nick Taylor,4,100.0,4,4,-1.00,RBC Canadian Open
+5,,Danny Willett,4,100.0,3,3,E,RBC Canadian Open
+6,,Rafa Cabrera Bello,4,83.33,5,6,+1.00,RBC Canadian Open
+7,T13,Keith Mitchell,4,83.33,5,6,E,RBC Canadian Open
+8,T22,Wyndham Clark,4,80.0,4,5,+1.00,RBC Canadian Open
+9,,Justin Lower,4,80.0,4,5,E,RBC Canadian Open
+10,,Austin Cook,4,75.0,3,4,+1.00,RBC Canadian Open
+11,T26,Rory McIlroy,4,75.0,3,4,-1.00,RBC Canadian Open
+12,,Matt Wallace,4,71.43,5,7,E,RBC Canadian Open
+13,44,Doug Ghim,4,66.67,2,3,+1.00,RBC Canadian Open
+14,,John Huh,4,66.67,2,3,+1.00,RBC Canadian Open
+15,,Jim Knous,4,66.67,2,3,+2.00,RBC Canadian Open
+16,,Sebastián Muñoz,4,66.67,2,3,+1.00,RBC Canadian Open
+17,,Sean O'Hair,4,60.0,3,5,+1.00,RBC Canadian Open
+18,,Cameron Percy,4,60.0,3,5,+2.00,RBC Canadian Open
+19,,David Skinns,4,60.0,3,5,+2.00,RBC Canadian Open
+20,,Aaron Cockerill,4,50.0,2,4,+3.00,RBC Canadian Open
+21,,Ben Crane,4,50.0,2,4,+2.00,RBC Canadian Open
+22,,Brett Drewitt,4,50.0,1,2,+1.00,RBC Canadian Open
+23,T17,Adam Hadwin,4,50.0,2,4,+2.00,RBC Canadian Open
+24,,Nick Hardy,4,50.0,2,4,+2.00,RBC Canadian Open
+25,,J.J. Henry,4,50.0,1,2,+1.00,RBC Canadian Open
+26,T54,Kramer Hickok,4,50.0,2,4,+2.00,RBC Canadian Open
+27,,Charley Hoffman,4,50.0,1,2,+1.00,RBC Canadian Open
+28,,Hank Lebioda,4,50.0,2,4,+1.00,RBC Canadian Open
+29,,Danny Lee,4,50.0,1,2,+1.00,RBC Canadian Open
+30,,Seung-Yul Noh,4,50.0,2,4,+2.00,RBC Canadian Open
+31,,Chase Seiffert,4,50.0,1,2,+1.00,RBC Canadian Open
+32,T54,Brandt Snedeker,4,50.0,3,6,+3.00,RBC Canadian Open
+33,,Robert Streb,4,50.0,1,2,+2.00,RBC Canadian Open
+34,T63,Adam Svensson,4,50.0,2,4,+1.00,RBC Canadian Open
+35,,Vaughn Taylor,4,50.0,1,2,+1.00,RBC Canadian Open
+36,,Justin Thomas,4,50.0,1,2,E,RBC Canadian Open
+37,T5,Jhonattan Vegas,4,50.0,1,2,+1.00,RBC Canadian Open
+38,T41,Cameron Smith,4,40.0,2,5,+3.00,RBC Canadian Open
+39,,Austin Smotherman,4,40.0,2,5,+6.00,RBC Canadian Open
+40,T22,Sahith Theegala,4,40.0,2,5,+2.00,RBC Canadian Open
+41,,Bo Van Pelt,4,40.0,2,5,+4.00,RBC Canadian Open
+42,,Paul Barjon,4,33.33,1,3,+3.00,RBC Canadian Open
+43,,Dylan Frittelli,4,33.33,1,3,+2.00,RBC Canadian Open
+44,,Brandon Hagy,4,33.33,2,6,+3.00,RBC Canadian Open
+45,T17,Mackenzie Hughes,4,33.33,1,3,+2.00,RBC Canadian Open
+46,,Kelly Kraft,4,33.33,1,3,+2.00,RBC Canadian Open
+47,,Adam Long,4,33.33,1,3,+1.00,RBC Canadian Open
+48,,Ben Martin,4,33.33,1,3,+2.00,RBC Canadian Open
+49,,Andrew Novak,4,33.33,1,3,+2.00,RBC Canadian Open
+50,,Scott Piercy,4,33.33,1,3,+1.00,RBC Canadian Open
+51,,Patrick Rodgers,4,33.33,3,9,+6.00,RBC Canadian Open
+52,,Scottie Scheffler,4,33.33,1,3,+2.00,RBC Canadian Open
+53,,Alex Smalley,4,33.33,1,3,+1.00,RBC Canadian Open
+54,,Dawie van der Walt,4,33.33,1,3,+2.00,RBC Canadian Open
+55,,Harold Varner III,4,33.33,1,3,+3.00,RBC Canadian Open
+56,T51,Carlos Ortiz,4,28.57,2,7,+5.00,RBC Canadian Open
+57,T45,Corey Conners,4,25.0,1,4,+3.00,RBC Canadian Open
+58,12,Aaron Rai,4,25.0,1,4,+2.00,RBC Canadian Open
+59,,Mark Hubbard,4,20.0,1,5,+4.00,RBC Canadian Open
+60,T54,Ryan Moore,4,20.0,1,5,+2.00,RBC Canadian Open
+61,,Jonas Blixt,4,0.0,0,4,+5.00,RBC Canadian Open
+62,,Tony Finau,4,0.0,0,2,+2.00,RBC Canadian Open
+63,T35,Emiliano Grillo,4,0.0,0,4,+3.00,RBC Canadian Open
+64,,Lee Hodges,4,0.0,0,2,+3.00,RBC Canadian Open
+65,,Trey Mullinax,4,0.0,0,1,+2.00,RBC Canadian Open
+66,,Justin Rose,4,0.0,0,2,+2.00,RBC Canadian Open
+67,,Brendon Todd,4,0.0,0,1,+1.00,RBC Canadian Open
+68,,Vince Whaley,4,0.0,0,2,+3.00,RBC Canadian Open
+0,,Tyler Duncan,4,100.0,2,2,E,AT&T Bryon Nelson
+1,T43,Lanto Griffin,4,100.0,5,5,-3.00,AT&T Bryon Nelson
+2,,Mark Hubbard,4,100.0,2,2,-1.00,AT&T Bryon Nelson
+3,,Joohyung Kim,4,100.0,2,2,-1.00,AT&T Bryon Nelson
+4,,Nate Lashley,4,100.0,3,3,-1.00,AT&T Bryon Nelson
+5,T52,K.H. Lee,4,100.0,4,4,-3.00,AT&T Bryon Nelson
+6,,J.J. Spaun,4,100.0,2,2,E,AT&T Bryon Nelson
+7,,Jason Kokrak,4,85.71,6,7,-1.00,AT&T Bryon Nelson
+8,,Christiaan Bezuidenhout,4,83.33,5,6,-2.00,AT&T Bryon Nelson
+9,,Chesson Hadley,4,83.33,5,6,E,AT&T Bryon Nelson
+10,T26,Matt Kuchar,4,77.78,7,9,E,AT&T Bryon Nelson
+11,,Brice Garnett,4,75.0,3,4,-1.00,AT&T Bryon Nelson
+12,,Branden Grace,4,75.0,3,4,-1.00,AT&T Bryon Nelson
+13,,Alex Noren,4,75.0,6,8,-1.00,AT&T Bryon Nelson
+14,,Ryan Palmer,4,75.0,3,4,+1.00,AT&T Bryon Nelson
+15,,Charl Schwartzel,4,75.0,3,4,-2.00,AT&T Bryon Nelson
+16,,Emiliano Grillo,4,70.0,7,10,-3.00,AT&T Bryon Nelson
+17,62,Paul Barjon,4,66.67,2,3,-2.00,AT&T Bryon Nelson
+18,11,James Hahn,4,66.67,2,3,-1.00,AT&T Bryon Nelson
+19,T18,Matthew NeSmith,4,66.67,2,3,E,AT&T Bryon Nelson
+20,,Joaquin Niemann,4,66.67,4,6,E,AT&T Bryon Nelson
+21,T1,Rory Sabbatini,4,66.67,6,9,-1.00,AT&T Bryon Nelson
+22,,Xander Schauffele,4,66.67,4,6,-2.00,AT&T Bryon Nelson
+23,,Scottie Scheffler,4,66.67,4,6,-1.00,AT&T Bryon Nelson
+24,,Conrad Shindler,4,66.67,4,6,-1.00,AT&T Bryon Nelson
+25,,David Skinns,4,66.67,6,9,-4.00,AT&T Bryon Nelson
+26,,Scott Stallings,4,66.67,2,3,E,AT&T Bryon Nelson
+27,,Sepp Straka,4,66.67,4,6,E,AT&T Bryon Nelson
+28,59,Jhonattan Vegas,4,66.67,4,6,-2.00,AT&T Bryon Nelson
+29,,Aaron Wise,4,66.67,6,9,-1.00,AT&T Bryon Nelson
+30,T60,Michael Thompson,4,62.5,5,8,-2.00,AT&T Bryon Nelson
+31,,Hideki Matsuyama,4,60.0,3,5,+1.00,AT&T Bryon Nelson
+32,,Seamus Power,4,60.0,3,5,+2.00,AT&T Bryon Nelson
+33,,Wesley Bryan,4,57.14,4,7,+5.00,AT&T Bryon Nelson
+34,T41,Jason Day,4,57.14,4,7,-1.00,AT&T Bryon Nelson
+35,T18,Michael Gligic,4,55.56,5,9,+1.00,AT&T Bryon Nelson
+36,,Justin Thomas,4,55.56,5,9,+1.00,AT&T Bryon Nelson
+37,,Jared Wolfe,4,55.56,5,9,-2.00,AT&T Bryon Nelson
+38,,Tommy Fleetwood,4,50.0,1,2,E,AT&T Bryon Nelson
+39,,Beau Hossler,4,50.0,2,4,E,AT&T Bryon Nelson
+40,T46,Stephan Jaeger,4,50.0,1,2,E,AT&T Bryon Nelson
+41,T52,Taylor Moore,4,50.0,3,6,E,AT&T Bryon Nelson
+42,,Sebastián Muñoz,4,50.0,2,4,-2.00,AT&T Bryon Nelson
+43,,Pat Perez,4,50.0,2,4,E,AT&T Bryon Nelson
+44,,Ian Poulter,4,50.0,3,6,E,AT&T Bryon Nelson
+45,,Aaron Rai,4,50.0,2,4,+1.00,AT&T Bryon Nelson
+46,,Davis Riley,4,50.0,1,2,+1.00,AT&T Bryon Nelson
+47,,Patrick Rodgers,4,50.0,1,2,E,AT&T Bryon Nelson
+48,T26,Austin Smotherman,4,50.0,3,6,+1.00,AT&T Bryon Nelson
+49,,Jordan Spieth,4,50.0,3,6,-1.00,AT&T Bryon Nelson
+50,,Adam Svensson,4,50.0,4,8,+1.00,AT&T Bryon Nelson
+51,,Vince Whaley,4,50.0,3,6,+1.00,AT&T Bryon Nelson
+52,,Matthias Schwab,4,44.44,4,9,E,AT&T Bryon Nelson
+53,,Sahith Theegala,4,44.44,4,9,+1.00,AT&T Bryon Nelson
+54,,Joseph Bramlett,4,42.86,3,7,+1.00,AT&T Bryon Nelson
+55,,Bill Haas,4,42.86,3,7,-1.00,AT&T Bryon Nelson
+56,,Max McGreevy,4,42.86,3,7,+3.00,AT&T Bryon Nelson
+57,,Seth Reeves,4,42.86,3,7,-1.00,AT&T Bryon Nelson
+58,,Brandon Wu,4,42.86,3,7,+3.00,AT&T Bryon Nelson
+59,,Cameron Champ,4,40.0,2,5,-1.00,AT&T Bryon Nelson
+60,,Maverick McNealy,4,40.0,2,5,+1.00,AT&T Bryon Nelson
+61,,Mito Pereira,4,40.0,2,5,+1.00,AT&T Bryon Nelson
+62,T60,Callum Tarren,4,40.0,2,5,+2.00,AT&T Bryon Nelson
+63,,Peter Uihlein,4,40.0,2,5,+1.00,AT&T Bryon Nelson
+64,,Adam Scott,4,37.5,3,8,+3.00,AT&T Bryon Nelson
+65,,Patton Kizzire,4,33.33,2,6,+1.00,AT&T Bryon Nelson
+66,,Marc Leishman,4,33.33,2,6,+3.00,AT&T Bryon Nelson
+67,,Keith Mitchell,4,33.33,2,6,E,AT&T Bryon Nelson
+68,,Trey Mullinax,4,33.33,2,6,+1.00,AT&T Bryon Nelson
+69,,Kyle Wilshire,4,33.33,2,6,+4.00,AT&T Bryon Nelson
+70,,Kiradech Aphibarnrat,4,28.57,2,7,+3.00,AT&T Bryon Nelson
+71,,Tom Hoge,4,28.57,2,7,+3.00,AT&T Bryon Nelson
+72,,Carlos Ortiz,4,28.57,2,7,+1.00,AT&T Bryon Nelson
+73,,Vaughn Taylor,4,25.0,1,4,+2.00,AT&T Bryon Nelson
+74,,Dustin Johnson,4,20.0,2,10,+5.00,AT&T Bryon Nelson
+75,,David Lipsky,4,20.0,1,5,+3.00,AT&T Bryon Nelson
+76,T26,Justin Lower,4,20.0,1,5,+3.00,AT&T Bryon Nelson
+77,,Andrew Novak,4,20.0,1,5,E,AT&T Bryon Nelson
+78,,Martin Trainer,4,20.0,1,5,+2.00,AT&T Bryon Nelson
+79,T26,Dawie van der Walt,4,20.0,1,5,+2.00,AT&T Bryon Nelson
+80,T46,Dylan Frittelli,4,14.29,1,7,E,AT&T Bryon Nelson
+81,8,Peter Malnati,4,14.29,1,7,+1.00,AT&T Bryon Nelson
+82,T12,Adam Schenk,4,11.11,1,9,+5.00,AT&T Bryon Nelson
+83,,Francesco Molinari,4,0.0,0,1,+1.00,AT&T Bryon Nelson
+0,,Stewart Cink,4,100.0,1,1,+1.00,Travelers Championship
+1,,Chesson Hadley,4,100.0,6,6,-3.00,Travelers Championship
+2,T36,Matthew NeSmith,4,100.0,1,1,E,Travelers Championship
+3,T23,Xander Schauffele,4,100.0,3,3,-1.00,Travelers Championship
+4,T36,Scottie Scheffler,4,100.0,2,2,E,Travelers Championship
+5,,Matt Wallace,4,100.0,1,1,E,Travelers Championship
+6,T12,K.H. Lee,4,83.33,5,6,E,Travelers Championship
+7,,Adam Long,4,83.33,5,6,+2.00,Travelers Championship
+8,,J.T. Poston,4,80.0,4,5,+1.00,Travelers Championship
+9,,Paul Barjon,4,75.0,3,4,E,Travelers Championship
+10,,Tyler Duncan,4,75.0,3,4,E,Travelers Championship
+11,61,Harris English,4,75.0,6,8,-1.00,Travelers Championship
+12,,William McGirt,4,75.0,3,4,+1.00,Travelers Championship
+13,,Webb Simpson,4,75.0,3,4,E,Travelers Championship
+14,,Tommy Fleetwood,4,66.67,2,3,+1.00,Travelers Championship
+15,,Bill Haas,4,66.67,2,3,E,Travelers Championship
+16,T56,Mackenzie Hughes,4,66.67,2,3,-1.00,Travelers Championship
+17,4,Andrew Putnam,4,66.67,4,6,+2.00,Travelers Championship
+18,,Chez Reavie,4,66.67,2,3,+1.00,Travelers Championship
+19,,Sahith Theegala,4,66.67,2,3,E,Travelers Championship
+20,,Cam Davis,4,60.0,3,5,+5.00,Travelers Championship
+21,,Patton Kizzire,4,60.0,3,5,+3.00,Travelers Championship
+22,,Aaron Rai,4,60.0,3,5,-2.00,Travelers Championship
+23,,Robert Streb,4,60.0,3,5,+2.00,Travelers Championship
+24,,Michael Thorbjornsen,4,60.0,3,5,+1.00,Travelers Championship
+25,,Ryan Armour,4,50.0,1,2,+2.00,Travelers Championship
+26,T56,Joseph Bramlett,4,50.0,1,2,E,Travelers Championship
+27,T34,Patrick Cantlay,4,50.0,2,4,+1.00,Travelers Championship
+28,T12,Joel Dahmen,4,50.0,2,4,+1.00,Travelers Championship
+29,,Tony Finau,4,50.0,1,2,E,Travelers Championship
+30,T6,Brian Harman,4,50.0,1,2,+2.00,Travelers Championship
+31,,Charles Howell III,4,50.0,2,4,+3.00,Travelers Championship
+32,,John Huh,4,50.0,3,6,+2.00,Travelers Championship
+33,,Martin Laird,4,50.0,3,6,+1.00,Travelers Championship
+34,,Nate Lashley,4,50.0,2,4,+1.00,Travelers Championship
+35,,Hank Lebioda,4,50.0,3,6,+2.00,Travelers Championship
+36,,Luke List,4,50.0,1,2,+1.00,Travelers Championship
+37,,Taylor Moore,4,50.0,4,8,+2.00,Travelers Championship
+38,,Matthias Schwab,4,50.0,3,6,-1.00,Travelers Championship
+39,,Ben Silverman,4,50.0,3,6,+2.00,Travelers Championship
+40,,Kevin Streelman,4,50.0,2,4,+1.00,Travelers Championship
+41,,Kevin Tway,4,50.0,2,4,E,Travelers Championship
+42,,Matthew Wolff,4,50.0,2,4,+2.00,Travelers Championship
+43,,Kelly Kraft,4,45.45,5,11,+3.00,Travelers Championship
+44,,Scott Stallings,4,44.44,4,9,E,Travelers Championship
+45,,Wyndham Clark,4,42.86,3,7,+2.00,Travelers Championship
+46,,Keith Mitchell,4,42.86,3,7,+2.00,Travelers Championship
+47,,Michael Gligic,4,40.0,2,5,+3.00,Travelers Championship
+48,,Harry Higgs,4,40.0,2,5,+3.00,Travelers Championship
+49,,Mark Hubbard,4,40.0,2,5,+1.00,Travelers Championship
+50,,Kevin Kisner,4,40.0,2,5,+1.00,Travelers Championship
+51,,Sam Ryder,4,40.0,2,5,E,Travelers Championship
+52,,Peter Malnati,4,37.5,3,8,+4.00,Travelers Championship
+53,,Jonas Blixt,4,33.33,2,6,+6.00,Travelers Championship
+54,T28,Keegan Bradley,4,33.33,1,3,+3.00,Travelers Championship
+55,,Luke Donald,4,33.33,2,6,+2.00,Travelers Championship
+56,T12,Nick Hardy,4,33.33,1,3,+1.00,Travelers Championship
+57,T1,Rory McIlroy,4,33.33,1,3,+4.00,Travelers Championship
+58,,Andrew Novak,4,33.33,1,3,+2.00,Travelers Championship
+59,T18,Seamus Power,4,33.33,1,3,+1.00,Travelers Championship
+60,T18,Davis Riley,4,33.33,1,3,+1.00,Travelers Championship
+61,,Adam Svensson,4,33.33,1,3,+2.00,Travelers Championship
+62,,Harold Varner III,4,33.33,1,3,+2.00,Travelers Championship
+63,T1,Hayden Buckley,4,25.0,1,4,+2.00,Travelers Championship
+64,,Austin Cook,4,25.0,1,4,+4.00,Travelers Championship
+65,,Lee Hodges,4,25.0,1,4,+2.00,Travelers Championship
+66,T18,Chris Gotterup,4,16.67,1,6,+4.00,Travelers Championship
+67,,Lucas Glover,4,0.0,0,4,+5.00,Travelers Championship
+68,,Morgan Hoffmann,4,0.0,0,4,+4.00,Travelers Championship
+69,,Conrad Shindler,4,0.0,0,3,E,Travelers Championship
+70,,Brendan Steele,4,0.0,0,2,E,Travelers Championship
+0,,Ryan Armour,4,100.0,4,4,E,Wells Fargo Championship
+1,,Matt Fitzpatrick,4,100.0,5,5,E,Wells Fargo Championship
+2,T33,Anirban Lahiri,4,100.0,1,1,E,Wells Fargo Championship
+3,,Denny McCarthy,4,100.0,5,5,+1.00,Wells Fargo Championship
+4,,Rory Sabbatini,4,100.0,4,4,E,Wells Fargo Championship
+5,,Rickie Fowler,4,80.0,4,5,+2.00,Wells Fargo Championship
+6,,Brian Harman,4,80.0,4,5,+1.00,Wells Fargo Championship
+7,T24,Peter Malnati,4,77.78,7,9,+1.00,Wells Fargo Championship
+8,,Luke List,4,75.0,6,8,+1.00,Wells Fargo Championship
+9,T1,Tony Finau,4,71.43,5,7,+1.00,Wells Fargo Championship
+10,,James Hahn,4,70.0,7,10,+3.00,Wells Fargo Championship
+11,,Keegan Bradley,4,66.67,8,12,+5.00,Wells Fargo Championship
+12,T1,Kurt Kitayama,4,66.67,2,3,E,Wells Fargo Championship
+13,T30,Kelly Kraft,4,66.67,6,9,+3.00,Wells Fargo Championship
+14,,Rory McIlroy,4,66.67,2,3,E,Wells Fargo Championship
+15,,Adam Schenk,4,66.67,4,6,+2.00,Wells Fargo Championship
+16,,Matthew Wolff,4,66.67,4,6,+3.00,Wells Fargo Championship
+17,,Corey Conners,4,62.5,5,8,+3.00,Wells Fargo Championship
+18,T33,Michael Gligic,4,62.5,5,8,+3.00,Wells Fargo Championship
+19,,Troy Merritt,4,62.5,5,8,+3.00,Wells Fargo Championship
+20,,Matthew NeSmith,4,62.5,5,8,+3.00,Wells Fargo Championship
+21,,Ben Martin,4,60.0,3,5,+1.00,Wells Fargo Championship
+22,,Nick Taylor,4,60.0,3,5,+3.00,Wells Fargo Championship
+23,,Si Woo Kim,4,55.56,5,9,+4.00,Wells Fargo Championship
+24,T50,Turk Pettit,4,55.56,5,9,+3.00,Wells Fargo Championship
+25,,Tyrrell Hatton,4,50.0,2,4,+1.00,Wells Fargo Championship
+26,,Russell Knox,4,50.0,3,6,+2.00,Wells Fargo Championship
+27,,Matt Kuchar,4,50.0,2,4,+4.00,Wells Fargo Championship
+28,,Martin Laird,4,50.0,3,6,+3.00,Wells Fargo Championship
+29,,David Lingmerth,4,50.0,5,10,+7.00,Wells Fargo Championship
+30,T33,Justin Lower,4,50.0,4,8,+2.00,Wells Fargo Championship
+31,23,C.T. Pan,4,50.0,4,8,+2.00,Wells Fargo Championship
+32,T33,Scott Piercy,4,50.0,5,10,+5.00,Wells Fargo Championship
+33,,J.T. Poston,4,50.0,3,6,+4.00,Wells Fargo Championship
+34,,Chad Ramey,4,50.0,3,6,+2.00,Wells Fargo Championship
+35,T1,Chez Reavie,4,50.0,2,4,+3.00,Wells Fargo Championship
+36,T58,Austin Smotherman,4,50.0,4,8,+3.00,Wells Fargo Championship
+37,,Dawie van der Walt,4,50.0,3,6,+4.00,Wells Fargo Championship
+38,,Camilo Villegas,4,50.0,2,4,+2.00,Wells Fargo Championship
+39,,Cameron Young,4,50.0,4,8,+3.00,Wells Fargo Championship
+40,,Jason Day,4,44.44,4,9,+4.00,Wells Fargo Championship
+41,T1,Hank Lebioda,4,44.44,4,9,+3.00,Wells Fargo Championship
+42,,Kevin Chappell,4,42.86,3,7,+5.00,Wells Fargo Championship
+43,,Luke Donald,4,42.86,3,7,+4.00,Wells Fargo Championship
+44,T30,Lanto Griffin,4,42.86,3,7,+5.00,Wells Fargo Championship
+45,T55,Abraham Ancer,4,40.0,2,5,+3.00,Wells Fargo Championship
+46,,Dylan Frittelli,4,40.0,4,10,+4.00,Wells Fargo Championship
+47,T33,Stephan Jaeger,4,40.0,2,5,+4.00,Wells Fargo Championship
+48,,Brendan Steele,4,40.0,2,5,+3.00,Wells Fargo Championship
+49,,Max Homa,4,37.5,3,8,+4.00,Wells Fargo Championship
+50,,Henrik Norlander,4,37.5,3,8,+8.00,Wells Fargo Championship
+51,,Stewart Cink,4,33.33,1,3,+3.00,Wells Fargo Championship
+52,,Sergio Garcia,4,33.33,3,9,+5.00,Wells Fargo Championship
+53,,Mackenzie Hughes,4,33.33,3,9,+4.00,Wells Fargo Championship
+54,67,Ben Kohles,4,33.33,3,9,+7.00,Wells Fargo Championship
+55,,K.H. Lee,4,33.33,1,3,+2.00,Wells Fargo Championship
+56,,Taylor Moore,4,33.33,4,12,+7.00,Wells Fargo Championship
+57,,Chase Seiffert,4,33.33,3,9,+7.00,Wells Fargo Championship
+58,,Jhonattan Vegas,4,28.57,2,7,+2.00,Wells Fargo Championship
+59,13,Callum Tarren,4,25.0,1,4,+4.00,Wells Fargo Championship
+60,,Michael Thompson,4,25.0,1,4,+2.00,Wells Fargo Championship
+61,,Paul Barjon,4,18.18,2,11,+10.00,Wells Fargo Championship
+62,,Joel Dahmen,4,11.11,1,9,+9.00,Wells Fargo Championship
+63,,Russell Henley,4,11.11,1,9,+7.00,Wells Fargo Championship
+64,,Dylan Wu,4,0.0,0,4,+5.00,Wells Fargo Championship
