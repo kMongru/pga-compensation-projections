@@ -13,15 +13,15 @@ This analysis will determine the how of different performace indictors (based on
 
 My hypothesis:
 
-- the idom "drive for show putt for dough" is true in respect to scores
-- that greens in regulation is the strongest indecator affecting performance
+- The idiom "drive for show putt for dough" is true in respect to scores
+- That greens in regulation is the strongest indecator affecting performance
 
 ### Overview:
 
-The data collected in this analysis was scraped with the python's requests and panadas library from https://www.pgatour.com/stats and aheres to the site's web scraping clause (robot.txt). The data analysis was performed using a linear regression to discover statisically significant values and create a IIP data set. This data set was divided creating 80/20 training and testing sets. The training set was used with random forest, XXX, and XXX models to discover systematic relationships. The models were then optimized by normalizing features based on z-score and adjusting the base value.
+The data collected in this analysis was scraped with the python's requests and panadas library from https://www.pgatour.com/stats and aheres to the site's web scraping clause (robot.txt). The data was cleaned and visualized with matplotlib to understand the nature of the data and choose an appropriate model. This data set was then divided following the 80/20 rule to create a training and testing set. The data analysis then performed using a linear regression learning model. The model were then optimized by normalizing features based on z-score and adjusting the base value.
 
 ### Conclusion:
 
-The model was able to predict scores with 1.6 strokes. The correlation analysis confirmed that
+The model was able to predict scores with 1.3 strokes. The correlation analysis showed that driving distance is positively correlated with strokes gained and has a larger impact than putts. The most influencial factor is proximity to the hole (0.3465).
 
-![results](https://github.com/kmongru78/pga-performance-analysis/results.png)
+![results](https://github.com/kMongru/pga-performance-analysis/blob/main/results.png)
